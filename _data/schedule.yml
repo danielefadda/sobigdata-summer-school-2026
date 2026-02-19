@@ -123,7 +123,7 @@ activities:
   tuesday:
     content:
       icon: "comment"
-      text: "**Vassia**<br>Wellbeing"
+      text: "**Vasiliki Voukelatou**<br>Wellbeing"
     rowspan: 2
   wednesday:
     content:
@@ -133,7 +133,7 @@ activities:
   thursday:
     content:
       icon: "comment"
-      text: "<em>Federico Battiston</em><br>Sistemi Complessi"
+      text: "**Federico Battiston**<br>Sistemi Complessi"
     rowspan: 1
   friday:
     content:
@@ -145,7 +145,7 @@ activities:
   thursday:
     content:
       icon: "comment"
-      text: "<em>Francesca Naretto</em><br>Privacy, Fairness e Spiegazione"
+      text: "**Francesca Naretto**<br>Privacy, Fairness e Spiegazione"
     rowspan: 1
 
 - time: "12:30 13:00"
@@ -162,12 +162,12 @@ activities:
   wednesday:
     content:
       icon: "comment"
-      text: "<em>Elisabeth Black</em><br>Agentic AI"
+      text: "**Elisabeth Black**<br>Agentic AI"
     rowspan: 2
   thursday:
     content:
       icon: "comment"
-      text: "<em>Awis</em><br>Data Protection"
+      text: "**Awais Rashid**<br>Data Protection"
     rowspan: 2
 
 - time: "13:00 13:30"
@@ -213,7 +213,7 @@ activities:
     rowspan: 1
   wednesday:
     content:
-      icon: ""
+      icon: "handshake"
       text: "**Free Afternoon**"
     rowspan: 4
   thursday:
@@ -224,7 +224,7 @@ activities:
   friday:
     content:
       icon: "handshake"
-      text: "**Internal Meeting**<br>SoBigData PPP"
+      text: "**Internal Meeting**<br>SoBigData RI"
     rowspan: 3
 
 - time: "16:00 16:30"
@@ -266,8 +266,8 @@ activities:
   sunday:
     content:
       icon: "handshake"
-      text: "**Welcome Cocktail**"
-    rowspan: 1
+      text: "**Welcome Cocktail <br>and dinner**"
+    rowspan: 2
   monday:
     content:
       icon: ""
@@ -276,7 +276,7 @@ activities:
   tuesday:
     content:
       icon: "handshake"
-      text: "**Social Event**<br>Petra"
+      text: "**Social Event**<br>T.B.A."
     rowspan: 2
   thursday:
     content:
@@ -290,11 +290,6 @@ activities:
     rowspan: 1
 
 - time: "20:30"
-  sunday:
-    content:
-      icon: ""
-      text: ""
-    rowspan: 1
   monday:
     content:
       icon: "cutlery"

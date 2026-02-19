@@ -8,6 +8,16 @@
   title: "Introduction to SoBigData RI and Summer School 2026"
   bio: "She is in the management team of the SoBigData Research Infrastructure, the European Research Infrastructure for Big Data and Social Mining and she is the Research Infrastructure Manager of SoBigData.it. A statistician, graduated in Statistics and Economics at University of Siena, she got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015."
   day: 1
+- name: "Anna"
+  surname: "Monreale"
+  institution: "University of Pisa"
+  img_url:  "/assets/images/speaker_Monreale.jpg"
+  description: ""
+  topics: ["Privacy", "Data Mining", "Social Mining"]
+  home: false
+  title: ""
+  bio: ""
+  day: 1
 
 - name: "Roberto"
   surname: "Trasarti"
