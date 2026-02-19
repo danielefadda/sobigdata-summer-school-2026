@@ -5,7 +5,7 @@
 layout: default-full
 title: "Home"
 show_sidetoc: true
-subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
+subtitle: "21-27 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_title: "From Data to Social Innovation"
 ---
 

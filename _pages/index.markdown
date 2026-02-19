@@ -5,7 +5,7 @@
 layout: default-full
 title: "Home"
 show_sidetoc: true
-subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
+subtitle: "21-27 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_type: hero #base, post, hero,image, splash
 header_img: assets/images/poggio.jpg
 header_title: "Data Analysis and AI<br> in Sport, Health and Wellbeing"
@@ -29,7 +29,7 @@ The Summer School aims to equip researchers, data scientists and social scientis
 </div>
 <div class="container-fluid my-5">
 {% include img-gallery-cards.html 
-    datasource='days-description'
+    datasource='school-days'
     img_url='image'
     name='day'
     description='description'
@@ -66,8 +66,8 @@ The Summer School aims to equip researchers, data scientists and social scientis
             <p class="lead">Nested in the gulf of Baratti on the “Etruscan Coast” in Tuscany (Italy), <a href="{{ site.baseurl }}{% link _pages/venue.markdown %}.html">Poggio all’Agnello </a> is a fully equipped resort that will host the 2026 edition of the SoBigData Summer school.
             </p>
             <h3>Registration & Deadline</h3>
-            <p>Early registration until 30 April 2026.</p>
-            <p><strong>Late registration between 1 May 2026 and 31 May 2026 will have an additional cost.</strong></p>
+            <p>Early registration until {{ site.data.school-info.registration.early.deadline }}.</p>
+            <p><strong>Late registration between {{ site.data.school-info.registration.late.start }} and {{ site.data.school-info.registration.late.deadline }} will have an additional cost.</strong></p>
             </div>
         </div>
     </div>
@@ -79,38 +79,27 @@ The Summer School aims to equip researchers, data scientists and social scientis
         <div class="col-md-6 col-sm-12">
             <h3>AIM OF THE SCHOOL</h3>
                 <p>
-                The Summer School aims to equip <strong>researchers, data scientists, and social scientists</strong> with an <strong>interdisciplinary understanding and skill set</strong> to address complex societal challenges. By blending <strong>technical training in data analysis, machine learning, and artificial intelligence</strong> with <strong>ethical, political, and social dynamics</strong>, the program empowers the students in facing today's pressing societal challenges with a balanced approach that combines <strong>innovative data methodologies, stakeholder awareness, and a commitment to responsible, transparent practices</strong>.
+                {{ site.data.school-info.aim }}
                 </p>
                 <p>
-                    Over <strong>four themed days</strong>, participants first explore the <strong>new European research framework</strong>—covering directives, open science principles, and data-sharing policies. Next, they dive into <strong>Information Dynamics</strong>, examining how (dis)information is created, transferred, and transformed. The third focus, <strong>Political Dynamics</strong>, looks at how policy, ideology, institutions, and individuals shape discussions and social discourse. Finally, <strong>Social Dynamics</strong> reveals how communities and institutions influence each other, how societal structures evolve, and how collective behaviors emerge. <strong>Expert-led lectures</strong> throughout the mornings expose participants to state-of-the-art methods and real-world case studies, highlighting best practices and contemporary applications of big data and AI. The <strong>afternoon sessions</strong> are dedicated to <strong>collaborative group projects</strong>, allowing students to actively engage in hands-on learning experiences. At the end of the week, a <strong>panel of experts</strong> in data mining and AI will evaluate the projects. This approach ensures a comprehensive and interactive learning environment allowing the participants to explore the <strong>ethical, legal, and practical dimensions</strong> of leveraging data for societal well-being.
+                    {{ site.data.school-info.aim_extended }}
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
             <div class="project lead px-3 py-1">
                <h3>Topics</h3>
                 <ul>
-                    <li>Data Science</li>
-                    <li>Artificial Intelligence</li>
-                    <li>Machine Learning</li>
-                    <li>Social Network Analysis</li>
-                    <li>Data Governance</li>
-                    <li>Disinformation</li>
-                    <li>Information Dynamics</li>
-                    <li>Social Dynamics</li>
-                    <li>Political Dynamics</li>
-                    <li>Large Language Models</li>
-                    <li>Sustainable Development</li>
-                    <li>Open Science</li>
-                    <li>Data Altruism</li>
+                {% for topic in site.data.school-info.topics %}
+                    <li>{{ topic }}</li>
+                {% endfor %}
                 </ul>
             </div>
             <div class="project lead px-3 py-1 mt-2">   
                 <h3>Target attendees</h3>
                 <ul>
-                    <li>Postgraduate Students</li>
-                    <li>PhD Students</li>
-                    <li>Researchers</li>
-                    <li>Social Scientists</li>
+                {% for attendee in site.data.school-info.target_attendees %}
+                    <li>{{ attendee }}</li>
+                {% endfor %}
                 </ul>
             </div>
         </div>

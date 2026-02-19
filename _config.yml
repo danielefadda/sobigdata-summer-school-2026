@@ -20,7 +20,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Data Analysis and AI<br> in Sport, Health and Wellbeing"
-subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
+subtitle: "21-27 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this

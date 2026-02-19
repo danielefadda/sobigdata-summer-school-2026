@@ -5,7 +5,7 @@
 layout: default-full
 title: "Home"
 show_sidetoc: true
-subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
+subtitle: "21-27 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_title: "From Data to Social Innovation"
 ---
 
@@ -97,7 +97,7 @@ header_title: "From Data to Social Innovation"
                         </div>
                         <div class="col-md-8">
                             <div class="project-body">
-                                <h5>{{ speaker.name }} </h5>
+                                <h5>{{ speaker.name }} {{ speaker.surname }}</h5>
                                 <p><strong> {{ speaker.institution }}</strong></p>
                                 <p>{{ speaker.bio }}</p>
                                 {% assign topics = speaker.topics | split: "," %}
