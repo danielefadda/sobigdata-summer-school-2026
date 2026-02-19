@@ -20,8 +20,8 @@ header_title: "From Data to Social Innovation"
                 <h3>Registration for the SoBigData Summer School 2026</h3>
                 <p class="lead">The cost of the summer school is <br>
                 <ul>
-                    <li><strong>850€</strong> for master and PhD students</li>
-                    <li><strong>1250€</strong> for the others</li>
+                    <li><strong>800€</strong> for students</li>
+                    <li><strong>1000€</strong> for the others</li>
                 </ul>
                 </p>
                 <p>The fee is valid until the <strong>30 April 2026 (early registration).</strong></p>
@@ -31,7 +31,7 @@ header_title: "From Data to Social Innovation"
                     <li><strong>Attendance</strong> to all summer school talks and sessions</li>
                     <li><strong>Meals</strong> (breakfast, lunch, dinner), and coffee breaks for all the duration of the school</li>
                     <li><strong>Lodging (3-4 persons per apartment)</strong></li>
-                    <li>Participation to <strong>three social events</strong></li>
+                    <li>Participation to <strong>two social events</strong></li>
                     <li><strong>Attendance certificate</strong></li>
                 </ul>
                 <hr>
@@ -47,7 +47,7 @@ header_title: "From Data to Social Innovation"
             <div class="col-md-8 offset-md-2 col-sm-12">
                 <h3>Registration Process</h3>
                 <p class="lead">To register for the school please fill out the following registration form</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxDIkzHtRmbGcM4UC5qocYsjOGJ1UmsSZQoZRpYydpxlhgXQ/viewform" target="_blank"><btn class="btn btn-primary mb-3">Registration Form</btn></a>
+                <a href="https://forms.gle/nnwvi9hAJawZsEgV7" target="_blank"><btn class="btn btn-primary mb-3">Registration Form</btn></a>
                 <hr>
                 <p class="mt-4"><em>Once you have filled and successfully sent this form, you will be contacted by the Summer School's organization in order to finalize the fee payment. You will be officially enrolled once your payment has been validated by the School's administration.</em> </p>
             </div>

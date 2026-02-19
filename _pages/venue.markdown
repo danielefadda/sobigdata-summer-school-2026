@@ -40,27 +40,31 @@ header_title: "From Data to Social Innovation"
 </div>
 
 
-
-<div class="container">
-{% include_cached snippets/masonry.html internal="venue" %}
-</div>
-
 <div class="accommodation py-5">
     <div class="container">
         <div class="row pt-2 ">
             <div class="col-md-8 offset-md-2 col-sm-12">
                 <h3>Accommodation</h3>
                 <p class="lead" style="text-align:justify">The venue <a href="https://www.poggioallagnello.it/en/">Poggio all’Agnello </a> offers a variety of accommodation. For more informations you can visit Poggio all'Agnello website.</p>
+
+                 {% assign accomodation = "
+                    /assets/images/accomodation/room1.jpeg,
+                    /assets/images/accomodation/room3.jpeg,
+                    /assets/images/accomodation/room7.jpeg,
+                    /assets/images/accomodation/room8.jpeg,
+                    /assets/images/accomodation/room9.jpeg,
+                    /assets/images/accomodation/room11.jpeg,
+                    /assets/images/accomodation/room12.jpeg,
+                    /assets/images/accomodation/room14.jpeg,
+                    /assets/images/accomodation/room15.jpeg"
+                    %}
+
+                {% include_cached snippets/masonry.html external=accomodation %}
             </div>
         </div>
     </div>
 </div>
 
-
-
-<div class="container">
-{% include_cached snippets/masonry.html internal="accomodation" %}
-</div>
 
 
 
@@ -74,6 +78,17 @@ header_title: "From Data to Social Innovation"
 <p>Moreover, the venue is located on the <a href="https://www.lastradadelvino.com/en/">Road of Wine and Oil</a>, an itinerary that comprises some of Tuscany’s most refined wineries and oil productors.</p>
                 <p>
                 The region also hosts numerous <a href="https://www.costadeglietruschi.eu/en/experience-eng/food-festivals-a-journey-through-the-flavours-of-the-etruscan-coast/">food festivals</a> comprising a variety of local products.</p>
+
+                {% assign surrounding = "
+                    /assets/images/surroundings/baratti5.jpeg,
+                    /assets/images/surroundings/baratti8-scaled.jpeg,
+                    /assets/images/surroundings/baratti10.jpeg,
+                    /assets/images/surroundings/baratti11.jpeg,
+                    /assets/images/surroundings/baratti13.jpeg,
+                    /assets/images/surroundings/baratti14.jpeg"
+                    %}
+
+                {% include_cached snippets/masonry.html external=surrounding %}
             </div>
         </div>
     </div>
@@ -101,6 +116,17 @@ Once at the Populonia train station, <a href="http://tinyurl.com/2x66rzn6"> venu
                         <li><i class="fas fa-train"></i> BY TRAIN: The nearest train station is “Populonia”. You can buy your ticket for the train directly at “Pisa Centrale” or “Roma Termini” stations (or book it on</li> www.trenitalia.com two month before, otherwise it is not available on the website). 
                         <li><i class="fas fa-car"></i> BY CAR: The address is “Loc. Poggio all’Agnello, 31 · 57025 Piombino (LI) Tuscany”</li>
                     </ul>
+                    {% assign venue = "
+                    /assets/images/venue/2021-08-26.jpg,
+                    /assets/images/venue/IMG_20190613_153137.jpg,
+                    /assets/images/venue/Photo_3.webp,
+                    /assets/images/venue/poggio3.jpeg,
+                    /assets/images/venue/poggio5.jpeg,
+                    /assets/images/venue/poggio9.jpeg,
+                    /assets/images/venue/pool-1.jpg"
+                    %}
+
+                {% include_cached snippets/masonry.html external=venue %}
             </div>
         </div>
     </div>

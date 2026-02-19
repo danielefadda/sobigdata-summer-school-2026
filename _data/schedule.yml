@@ -83,7 +83,7 @@ activities:
   monday:
     content:
       icon: "comment"
-      text: "**Tutorial SoBigData Lab**"
+      text: "**Valerio Grossi**<br>Tutorial SoBigData Lab"
     rowspan: 1
 
 - time: "11:00 11:30"
@@ -114,41 +114,7 @@ activities:
     rowspan: 1
   class: break
 
-- time: "11:30 12:00"
-  monday:
-    content:
-      icon: "comment"
-      text: "**Project Challenges Presentation**<br>(Sgandurra, Allenatore Anna)"
-    rowspan: 2
-  tuesday:
-    content:
-      icon: "comment"
-      text: "**Vasiliki Voukelatou**<br>Wellbeing"
-    rowspan: 2
-  wednesday:
-    content:
-      icon: "comment"
-      text: "**Maurizio Napolitano**<br>Sport Analytics on Volleyball"
-    rowspan: 2
-  thursday:
-    content:
-      icon: "comment"
-      text: "**Federico Battiston**<br>Sistemi Complessi"
-    rowspan: 1
-  friday:
-    content:
-      icon: "comments"
-      text: "**Projects Presentations**<br>(Mark Coté, Francesca Naretto, Jose Such, Vasia)"
-    rowspan: 4
-
-- time: "12:00 12:30"
-  thursday:
-    content:
-      icon: "comment"
-      text: "**Francesca Naretto**<br>Privacy, Fairness e Spiegazione"
-    rowspan: 1
-
-- time: "12:30 13:00"
+- time: "11:30 12:30"
   monday:
     content:
       icon: "comment"
@@ -157,20 +123,40 @@ activities:
   tuesday:
     content:
       icon: "comment"
-      text: "**Salvo**<br>Visualization Health"
+      text: "**Vasiliki Voukelatou**<br>Wellbeing"
+    rowspan: 1
+  wednesday:
+    content:
+      icon: "comment"
+      text: "T.B.A."
+    rowspan: 1
+  thursday:
+    content:
+      icon: "comment"
+      text: "**Francesca Naretto**<br>Privacy, Fairness e Spiegazione"
+    rowspan: 1
+  friday:
+    content:
+      icon: "comments"
+      text: "**Projects Presentations**"
     rowspan: 2
+
+- time: "12:30 13:30"
+  tuesday:
+    content:
+      icon: "comment"
+      text: "**Salvo**<br>Visualization Health"
+    rowspan: 1
   wednesday:
     content:
       icon: "comment"
       text: "**Elisabeth Black**<br>Agentic AI"
-    rowspan: 2
+    rowspan: 1
   thursday:
     content:
       icon: "comment"
       text: "**Awais Rashid**<br>Data Protection"
-    rowspan: 2
-
-- time: "13:00 13:30"
+    rowspan: 1
 
 - time: "13:30 15:00"
   monday:
@@ -204,12 +190,12 @@ activities:
   monday:
     content:
       icon: "laptop"
-      text: "**Developing Student Projects<br>with Tutors**"
+      text: "**Developing Student Projects with Tutors**"
     rowspan: 1
   tuesday:
     content:
       icon: "laptop"
-      text: "**Developing Student Projects<br>with Tutors**"
+      text: "**Developing Student Projects with Tutors**"
     rowspan: 1
   wednesday:
     content:
@@ -219,7 +205,7 @@ activities:
   thursday:
     content:
       icon: "laptop"
-      text: "**Developing Student Projects<br>with Tutors**"
+      text: "**Developing Student Projects with Tutors**"
     rowspan: 1
   friday:
     content:
@@ -249,17 +235,17 @@ activities:
   monday:
     content:
       icon: "laptop"
-      text: "**Developing Student Projects<br>with Tutors**"
+      text: "**Developing Student Projects with Tutors**"
     rowspan: 1
   tuesday:
     content:
       icon: "laptop"
-      text: "**Developing Student Projects<br>with Tutors**"
+      text: "**Developing Student Projects with Tutors**"
     rowspan: 1
   thursday:
     content:
       icon: "laptop"
-      text: "**Developing Student Projects<br>with Tutors**"
+      text: "**Developing Student Projects with Tutors**"
     rowspan: 1
 
 - time: "18:00 20:30"

@@ -18,7 +18,7 @@
                             <div class="card-body">
                                 {% if card[include.name] %}
                                     <h5 class="card-title">
-                                        <strong>{{ card[include.name] | escape }}</strong>
+                                        <strong>{{ card[include.name] | escape }} {{ card[include.surname] | escape }}</strong> 
                                     </h5>
                                 {% endif %}
                                 {% if card[include.description] %}

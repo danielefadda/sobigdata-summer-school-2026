@@ -50,8 +50,6 @@ navbar:
   nav:
     - title: Program
       url: /schedule.html
-    - title: Social events
-      url: /social.html
     - title: Venue
       url: /venue.html
     - title: Registration
@@ -143,29 +141,26 @@ livereload: true
 
 remote_theme: dieghernan/chulapa
 
-# twitter_username: jekyllrb
-#github_username:  jekyll
-
 future: true
 
 defaults:
-  - scope:
-      path: "assets/images/venue"
-    values:
-      image_col: venue
-  - scope:
-      path: "assets/images/surroundings"
-    values:
-      image_col: surroundings
-  - scope:
-      path: "assets/images/accomodation"
-    values:
-      image_col: accomodation
-  - scope:
-      path: "assets/images/social"
-    values:
-      image_col: social
-  - scope:
-      path: ""
-    values:
-      sitemap: false
+- scope:
+    path: "assets/images/venue"
+  values:
+    image_col: venue
+- scope:
+    path: "assets/images/surroundings"
+  values:
+    image_col: surroundings
+- scope:
+    path: "assets/images/accomodation"
+  values:
+    image_col: accomodation
+- scope:
+    path: "assets/images/social"
+  values:
+    image_col: social
+- scope:
+    path: ""
+  values:
+    sitemap: false

@@ -7,7 +7,7 @@ title: "Home"
 show_sidetoc: true
 subtitle: "21-27 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_type: hero #base, post, hero,image, splash
-header_img: assets/images/poggio.jpg
+header_img: assets/images/pool-1.jpg
 header_title: "Data Analysis and AI<br> in Sport, Health and Wellbeing"
 ---
 
@@ -59,7 +59,7 @@ The Summer School aims to equip researchers, data scientists and social scientis
     <div class="container">
         <div class="row pt-2 ">
             <div class="col-md-6 col-sm-12">
-               <img src="{{ site.baseurl }}/assets/images/poggio-allagnello.jpeg" alt="Poggio all'Agnello">
+               <img src="{{ site.baseurl }}/assets/images/venue/poggio3.jpeg" alt="Poggio all'Agnello">
             </div>
         <div class="col-md-6 col-sm-12">
             <h3>WHERE</h3>
@@ -119,11 +119,11 @@ The Summer School aims to equip researchers, data scientists and social scientis
     datasource='speaker-cards' 
     url='img_url' 
     name='name' 
+    surname='surname'
     description='institution' 
     container='fluid' 
 %}
 </div>
-
 
 <div class="container cta">
         <div class="row py-5">
@@ -135,10 +135,6 @@ The Summer School aims to equip researchers, data scientists and social scientis
             </div>
         </div>
 </div>
-
-
-
-
 
 <div class="container credits pt-5">
     <div class="row">

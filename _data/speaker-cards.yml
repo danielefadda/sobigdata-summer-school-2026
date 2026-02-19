@@ -7,7 +7,7 @@
   home: false
   title: "Introduction to SoBigData RI and Summer School 2026"
   bio: "She is in the management team of the SoBigData Research Infrastructure, the European Research Infrastructure for Big Data and Social Mining and she is the Research Infrastructure Manager of SoBigData.it. A statistician, graduated in Statistics and Economics at University of Siena, she got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015."
-  day: 1
+  day: 5
 - name: "Anna"
   surname: "Monreale"
   institution: "University of Pisa"
@@ -17,7 +17,7 @@
   home: false
   title: ""
   bio: ""
-  day: 1
+  day: 5
 
 - name: "Roberto"
   surname: "Trasarti"
@@ -80,7 +80,7 @@
   img_url: "/assets/images/speaker_Rossi2.jpg"
   description: "Elite football clubs generate vast amounts of data. This talk will present practical examples of the types of data currently available in professional football, illustrate how they are used in real operational contexts, and explain how a Data Analytics department is structured within an elite football organisation."
   topics: ["Sports Science", "Predictive Modelling", "Performance Analysis"]
-  home: false
+  home: true
   title: "The Role of the Data Analyst in Elite Football"
   bio: "Alessio Rossi is a sport performance data scientist with a strong background in sport science and biomedical research. He holds a PhD focused on predictive modelling in sport science. He currently works in professional football, applying data analysis, machine learning, and statistical modelling to transform datasets into actionable insights."
   day: 3
@@ -106,3 +106,24 @@
   title: "Do LLMs Dream of Elliptic Curves: Security Considerations for AI Usage"
   bio: "Awais Rashid is Professor of Cyber Security at University of Bristol where he heads the Cyber Security Group. He is Director of the EPSRC Centre for Doctoral Training in Cyber Security and Director of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN). His research focuses on security and privacy of large connected infrastructures."
   day: 4
+
+- name: "Sara"
+  surname: "Colantonio"
+  institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
+  img_url: "/assets/images/speaker_Colantonio.jpg"
+  description: "The talk will introduce how modern computer vision and AI techniques can automatically analyze human movement for physical exercise and rehabilitation. We will cover key methods for pose estimation, motion tracking, and performance assessment using video and sensor data, and discuss how these tools can detect incorrect technique, quantify progress, and personalize training and therapy."
+  topics: ["Computer Vision", "AI for Health", "Assistive Technologies"]
+  home: true
+  title: "Watching You Move: Tracking Human Movement for Exercise and Rehabilitation"
+  bio: "Senior researcher from the \"Signals and Images\" Laboratory in Pisa. Her research interests include machine learning, assistive technologies, personal informatics, and trustworthy AI. Co-authored over 120 scientific papers and coordinated FP7 projects on smart health systems. Recognized as one of the 40 Top Transformers in health (2016). Member of the international expert group AI4HI, contributing to FUTURE-AI guidelines on trustworthy AI in medical applications."
+  day: 2
+- name: "Salvo"
+  surname: "Rinzivillo"
+  institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
+  img_url:  "/assets/images/speaker_Rinzivillo.jpg"
+  description: "This talk introduces the concept of 'XUI' or eXplainable User Interfaces, focusing on methods for enhancing explainability with UI design to improve decision-making processes. The talk will explore how XUI can be achieved through conversational interfaces, visual interactions that progressively reveal information, and progressive disclosure strategies. Use cases demonstrating these concepts in practice will illustrate how they are applied in real-world scenarios to enhance user trust and satisfaction. By the end of this presentation, attendees will gain insights into the importance of UI design for explainability and pointers to practical tools for implementing it within their own research."
+  topics: ["XUI", "XAI","Explainable User Interfaces", "UI Design"]
+  home: false
+  title: 'Introducing XUI: Enhancing Model Reliability through eXplainable User Interfaces'
+  bio: "SR is a computer scientist, specialized in AI and machine learning, particularly focusing on enhancing explainability within these fields to foster trust and reliability. With a keen interest in visual representations of data, he bridges the gap between technology and understanding, making complex concepts accessible to all audiences. Beyond his professional pursuits, his background as a maker drives him to continually explore new possibilities and push boundaries in creative problem-solving."
+  day: 2

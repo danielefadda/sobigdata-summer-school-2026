@@ -1,29 +1,30 @@
 aim: |
-  The Summer School aims to equip researchers, data scientists, and social scientists with an interdisciplinary understanding and skill set to address complex societal challenges. By blending technical training in data analysis, machine learning, and artificial intelligence with ethical, political, and social dynamics, the program empowers the students in facing today's pressing societal challenges with a balanced approach that combines innovative data methodologies, stakeholder awareness, and a commitment to responsible, transparent practices.
+  The Summer School aims to equip researchers, data scientists, and social scientists with an interdisciplinary understanding and skill set to address complex societal challenges. By blending technical training in data analysis, machine learning, and artificial intelligence with an ethical perspective, the program empowers the students in facing today's pressing societal challenges with a balanced approach that combines innovative data methodologies, stakeholder awareness, and a commitment to responsible, transparent practices. 
+
 
 aim_extended: |
-  Over four themed days, participants first explore the new European research framework—covering directives, open science principles, and data-sharing policies. Next, they dive into Information Dynamics, examining how (dis)information is created, transferred, and transformed. The third focus, Political Dynamics, looks at how policy, ideology, institutions, and individuals shape discussions and social discourse. Finally, Social Dynamics reveals how communities and institutions influence each other, how societal structures evolve, and how collective behaviors emerge. Expert-led lectures throughout the mornings expose participants to state-of-the-art methods and real-world case studies, highlighting best practices and contemporary applications of big data and AI. The afternoon sessions are dedicated to collaborative group projects, allowing students to actively engage in hands-on learning experiences. At the end of the week, a panel of experts in data mining and AI will evaluate the projects. This approach ensures a comprehensive and interactive learning environment allowing the participants to explore the ethical, legal, and practical dimensions of leveraging data for societal well-being.
+  Over <strong>four themed days</strong>, the summer school guides participants through the key challenges and opportunities at the intersection of data science, AI, and society. The program opens with an introduction to the SoBigData Research Infrastructure, followed by the presentation of real-world social challenges proposed by companies and associations, which will inspire the projects developed by students throughout the week. The second day focuses on Health and Wellbeing, exploring the intersection of AI and healthcare, personal wellbeing, and health data through advanced data analysis and visualization techniques. The third theme, Sport Analytics and Agentic AI, examines data-driven approaches in soccer and volleyball alongside emerging agentic AI methods. The final day addresses Privacy and Fairness, for understanding how to handle data and modelling solutions as a responsible data science.
+
+  Expert led <strong>morning lectures</strong> expose participants to state-of-the-art methodologies and real-world case studies, emphasizing best practices and contemporary applications of big data and AI. Afternoon sessions are dedicated to <strong>collaborative group projects</strong>, enabling hands-on learning and practical problem solving. At the end of the week, a panel of experts in data science and AI evaluates the projects, ensuring a comprehensive and interactive learning experience that equips participants to address technical, ethical, and societal challenges in data-driven innovation.
 
 topics:
   - Data Science
   - Artificial Intelligence
   - Machine Learning
   - Social Network Analysis
-  - Data Governance
-  - Disinformation
-  - Information Dynamics
-  - Social Dynamics
-  - Political Dynamics
-  - Large Language Models
-  - Sustainable Development
+  - Wellbeing
+  - Health Data
+  - Sport Analytics
+  - Fairness
+  - Agentic AI
   - Open Science
-  - Data Altruism
 
 target_attendees:
   - Postgraduate Students
   - PhD Students
   - Researchers
   - Social Scientists
+
 
 registration:
   early:
