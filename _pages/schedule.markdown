@@ -87,7 +87,10 @@ header_title: "From Data to Social Innovation"
 </div>
 </div>
 
-<div class="container py-3" id="projects-container">
+<div class="container">
+        <div class="row py-3">
+            <div class="col-md-8 offset-md-2 col-sm-12">
+            <div class="container py-3" id="projects-container">
         <h3>All the speakers</h3>   
         {% assign sorted_speakers = site.data.speaker-cards | sort: "surname" %}
             {% for speaker in sorted_speakers %}
@@ -106,6 +109,11 @@ header_title: "From Data to Social Innovation"
                 </div>
         {% endfor %}
 </div>
+            </div>
+        </div>
+
+</div>
+
 
 
 <script>

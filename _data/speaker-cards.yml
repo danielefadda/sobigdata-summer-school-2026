@@ -55,7 +55,7 @@
 - name: "Jose"
   surname: "Such"
   institution: "Spanish National Research Council (CSIC)"
-  img_url: "/assets/images/speaker_Such.jpg"
+  img_url: "/assets/images/speaker_Such.png"
   description: "AI has had tremendous success recently in solving complex problems, but it also introduces risks. This talk focuses on privacy risks in AI-based systems from a human-centred perspective, discussing research towards making AI-based systems privacy-aware and helping users manage their privacy."
   topics: ["Human-Centred AI", "Privacy", "Cyber Security"]
   home: true
@@ -66,7 +66,7 @@
 - name: "Francesca"
   surname: "Naretto"
   institution: "University of Pisa / Scuola Normale Superiore"
-  img_url: "/assets/images/speaker_Naretto.jpg"
+  img_url: "/assets/images/speaker_Naretto.png"
   description: "Machine learning systems hold a central role in decision-making, but ethical values like explainability, privacy and fairness are interconnected and often in tension. This talk explores these synergies, discussing post-hoc explanation approaches with privacy guarantees and fairness in decentralized settings."
   topics: ["Explainable AI (XAI)", "Data Privacy", "Fairness"]
   home: false
@@ -77,7 +77,7 @@
 - name: "Alessio"
   surname: "Rossi"
   institution: "Professional Football Data Scientist"
-  img_url: "/assets/images/speaker_Rossi.jpg"
+  img_url: "/assets/images/speaker_Rossi2.jpg"
   description: "Elite football clubs generate vast amounts of data. This talk will present practical examples of the types of data currently available in professional football, illustrate how they are used in real operational contexts, and explain how a Data Analytics department is structured within an elite football organisation."
   topics: ["Sports Science", "Predictive Modelling", "Performance Analysis"]
   home: false
