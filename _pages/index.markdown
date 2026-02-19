@@ -145,8 +145,10 @@ The Summer School aims to equip researchers, data scientists and social scientis
         <div class="col-md-12">
             <h5>This summer school is organized and supported by</h5>
         <div class="logo-grid">
-                    <img src="{{ site.baseurl }}/assets/images/Logo_SoBigData_RI_560_X_100.png" alt="SoBigData RI" >
-                    <img src="{{ site.baseurl }}/assets/images/fondazioneAREA.png" alt="Fondazione area" >
+                    <a href="http://sobigdata.eu" target="_blank" title="SoBigData RI"><img src="{{ site.baseurl }}/assets/images/Logo_SoBigData_RI_560_X_100.png" alt="SoBigData RI" ></a>
+                    <a href="https://www.fondazionearea.org/home-page" target="_blank" title="Fondazione AREA"><img src="{{ site.baseurl }}/assets/images/fondazioneAREA.png" alt="Fondazione area" ></a>
+                    <a href="https://consorzioquinn.it/" target="_blank" title="Consorzio Quin"><img src="{{ site.baseurl }}/assets/images/Logo_consorzio-quin-logo.svg" alt="Consorzio Quin" ></a>
+                    <a href="https://www.phd-ai.it/" target="_blank" title="PhD AI"><img src="{{ site.baseurl }}/assets/images/Logo_phd-ai.png" alt="phd-ai" ></a>
         </div>
         </div>
     </div>

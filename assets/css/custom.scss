@@ -369,7 +369,7 @@ td:hover {
 // grid of logos
 .logo-grid {
     display: grid;
-    grid-template-columns:  repeat(3, auto);/* 6 columns with 150px width */
+    grid-template-columns:  repeat(4, auto);/* 6 columns with 150px width */
     gap: 10px; /* Adjust the gap between logos as needed */
     max-width: 1920px;
     margin: 0 auto;
