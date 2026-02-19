@@ -19,8 +19,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "From Data to Social Innovation"
-subtitle: "22-28 June 2025 – Baratti (Piombino) – TUSCANY (Italy)"
+title: "Data Analysis and AI<br> in Sport, Health and Wellbeing"
+subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -31,12 +31,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Riportare il github del gruppo di progetto e quello del sito web (se differente).
 # Tali informazioni appariranno nel Footer del sito.
 github_repo:
-  - name: "SoBigData Summer school 2025"
-    url: "https://github.com/danielefadda/sobigdata-summer-school-2025"
+  - name: "SoBigData Summer school 2026"
+    url: "https://github.com/danielefadda/sobigdata-summer-school-2026"
 
 markdown: kramdown
 
-baseurl: "/sobigdata-summer-school-2025"
+baseurl: "/sobigdata-summer-school-2026"
 url: "https://danielefadda.github.io"
 
 
@@ -44,7 +44,7 @@ url: "https://danielefadda.github.io"
 navbar:
   style :  dual #non modificare
   brand: # è il titolo del sito e funziona da bottone (tipicamente per la homepage).
-    title :  "SoBigData Summer School 2025"
+    title :  "SoBigData Summer School 2026"
     img: "./assets/images/Logo_masthead.png"
     url: /
   nav:
@@ -115,7 +115,7 @@ footer:
   - label: "Facebook"
     icon: "fab fa-facebook"
     url: https://www.facebook.com/sobigdata
-  copyright: "2025 SoBigData RI"
+  copyright: "2026 SoBigData RI"
 
 
 sass:

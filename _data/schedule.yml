@@ -1,19 +1,19 @@
 headers:
 - "TIME"
-- "Sunday 22"
-- "Monday 23"
-- "Tuesday 24"
-- "Wednesday 25"
-- "Thursday 26"
-- "Friday 27"
+- "Sunday 21"
+- "Monday 22"
+- "Tuesday 23"
+- "Wednesday 24"
+- "Thursday 25"
+- "Friday 26"
 
 activities:
 - time: "09:00 09:30"
   sunday:
     content:
-      icon: ""
-      text: ""
-    rowspan: 6
+      icon: "comments"
+      text: "**Meeting Tutors**"
+    rowspan: 13
   monday:
     content:
       icon: "id-card"
@@ -28,7 +28,7 @@ activities:
     content:
       icon: ""
       text: ""
-      rowspan: 1
+    rowspan: 1
   thursday:
     content:
       icon: ""
@@ -49,36 +49,41 @@ activities:
   tuesday:
     content:
       icon: "comment"
-      text: "**Giulio Rossetti**"
+      text: "**Sara Colantonio**<br>AI and Health"
     rowspan: 3
   wednesday:
     content:
       icon: "comment"
-      text: "**János Kertész**"
+      text: "**Alessio Rossi**<br>Sport Analytics on Football"
     rowspan: 3
   thursday:
     content:
       icon: "comment"
-      text: "**Daniele Quercia**"
+      text: "**Jose Such**<br>Ethics"
     rowspan: 3
   friday:
     content:
-      icon: "comment"
-      text: "**Jussara Marques de Almeida**"
-    rowspan: 3
+      icon: ""
+      text: ""
+    rowspan: 1
 
 - time: "10:00 10:30"
   monday:
     content:
       icon: "comment"
-      text: "**Michela Natilli**<br>SoBigData RI & School Introduction"
+      text: "**Roberto Trasarti**<br>SoBigData RI & School Introduction"
     rowspan: 1
+  friday:
+    content:
+      icon: "comment"
+      text: "**Projects Presentations**"
+    rowspan: 2
 
 - time: "10:30 11:00"
   monday:
     content:
       icon: "comment"
-      text: "**Roberta Savella**"
+      text: "**Tutorial SoBigData Lab**"
     rowspan: 1
 
 - time: "11:00 11:30"
@@ -109,61 +114,63 @@ activities:
     rowspan: 1
   class: break
 
-- time: "11:30 12:30"
+- time: "11:30 12:00"
   monday:
     content:
       icon: "comment"
-      text: "**Juan Duran**<br>On the Ethics and Epistemology of Data Science: Mapping the Debate"
-    rowspan: 1
+      text: "**Project Challenges Presentation**<br>(Sgandurra, Allenatore Anna)"
+    rowspan: 2
   tuesday:
     content:
       icon: "comment"
-      text: "**Fabiana Zollo**"
-    rowspan: 1
+      text: "**Vassia**<br>Wellbeing"
+    rowspan: 2
   wednesday:
     content:
       icon: "comment"
-      text: "**Paolo Gerbaudo**<br>Making Sense of Affective Big Data: Sentiment Analysis and the Data Science of <em>Mass Online Conversations</em>"
-    rowspan: 1
+      text: "**Maurizio Napolitano**<br>Sport Analytics on Volleyball"
+    rowspan: 2
   thursday:
     content:
       icon: "comment"
-      text: "**Salvatore Rinzivillo**<br>Introducing XUI: Enhancing Model Reliability through eXplainable User Interfaces"
+      text: "<em>Federico Battiston</em><br>Sistemi Complessi"
     rowspan: 1
   friday:
     content:
       icon: "comments"
-      text: "**Students presentation**<br>"
-    rowspan: 2
+      text: "**Projects Presentations**<br>(Mark Coté, Francesca Naretto, Jose Such, Vasia)"
+    rowspan: 4
 
-
-
-- time: "12:30 13:30"
-  sunday:
-    content:
-      icon: "comments"
-      text: "**Meeting with Tutors**"
-    rowspan: 5
-  monday:
-    content:
-      icon: "comment"
-      text: "**Mark Coté**<br>Data Altruism"
-    rowspan: 1
-  tuesday:
-    content:
-      icon: "comment"
-      text: "**Michele Starnini**<br>Ideological radicalization on social media"
-    rowspan: 1
-  wednesday:
-    content:
-      icon: "comment"
-      text: "**Salvatore Citraro**<br>Political Dynamics through Complex Network Analysis"
-    rowspan: 1
+- time: "12:00 12:30"
   thursday:
     content:
       icon: "comment"
-      text: "**Luca Pappalardo**<br>Human-AI Coevolution"
+      text: "<em>Francesca Naretto</em><br>Privacy, Fairness e Spiegazione"
     rowspan: 1
+
+- time: "12:30 13:00"
+  monday:
+    content:
+      icon: "comment"
+      text: "**Project Challenges Presentation**"
+    rowspan: 2
+  tuesday:
+    content:
+      icon: "comment"
+      text: "**Salvo**<br>Visualization Health"
+    rowspan: 2
+  wednesday:
+    content:
+      icon: "comment"
+      text: "<em>Elisabeth Black</em><br>Agentic AI"
+    rowspan: 2
+  thursday:
+    content:
+      icon: "comment"
+      text: "<em>Awis</em><br>Data Protection"
+    rowspan: 2
+
+- time: "13:00 13:30"
 
 - time: "13:30 15:00"
   monday:
@@ -197,27 +204,27 @@ activities:
   monday:
     content:
       icon: "laptop"
-      text: "**Student Projects <br>Development**"
+      text: "**Developing Student Projects<br>with Tutors**"
     rowspan: 1
   tuesday:
     content:
       icon: "laptop"
-      text: "**Student Projects <br>Development**"
+      text: "**Developing Student Projects<br>with Tutors**"
     rowspan: 1
   wednesday:
     content:
-      icon: "handshake"
-      text: "**Social Event**<br>trip to Populonia"
-    rowspan: 3
+      icon: ""
+      text: "**Free Afternoon**"
+    rowspan: 4
   thursday:
     content:
       icon: "laptop"
-      text: "**Student Projects <br>Development**"
+      text: "**Developing Student Projects<br>with Tutors**"
     rowspan: 1
   friday:
     content:
-      icon: "comment"
-      text: "**Open discussion** for follow-up activities"
+      icon: "handshake"
+      text: "**Internal Meeting**<br>SoBigData PPP"
     rowspan: 3
 
 - time: "16:00 16:30"
@@ -242,24 +249,24 @@ activities:
   monday:
     content:
       icon: "laptop"
-      text: "**Student Projects <br>Development**"
+      text: "**Developing Student Projects<br>with Tutors**"
     rowspan: 1
   tuesday:
     content:
       icon: "laptop"
-      text: "**Student Projects <br>Development**"
+      text: "**Developing Student Projects<br>with Tutors**"
     rowspan: 1
   thursday:
     content:
       icon: "laptop"
-      text: "**Student Projects <br>Development**"
+      text: "**Developing Student Projects<br>with Tutors**"
     rowspan: 1
 
 - time: "18:00 20:30"
   sunday:
     content:
       icon: "handshake"
-      text: "**Welcome Cockatil**"
+      text: "**Welcome Cocktail**"
     rowspan: 1
   monday:
     content:
@@ -269,39 +276,34 @@ activities:
   tuesday:
     content:
       icon: "handshake"
-      text: "**Social Event**<br>Winery visit and social dinner"
+      text: "**Social Event**<br>Petra"
     rowspan: 2
-  wednesday:
-    content:
-      text: ""
-      icon: ""
-    rowspan: 1
   thursday:
     content:
-      text: ""
       icon: ""
+      text: ""
     rowspan: 1
   friday:
     content:
-      icon: "handshake"
-      text: "**Internal meeting** SoBigData PPP"
+      icon: ""
+      text: ""
     rowspan: 1
 
 - time: "20:30"
   sunday:
     content:
-      icon: "cutlery"
-      text: "**Hotel Dinner**"
+      icon: ""
+      text: ""
     rowspan: 1
   monday:
     content:
       icon: "cutlery"
-      text: "**Tuscan Dinner**"
+      text: "**Dinner**<br>Serata Toscana"
     rowspan: 1
   wednesday:
     content:
       icon: "cutlery"
-      text: "**Hotel Dinner**"
+      text: "**Dinner**<br>Serata Mare"
     rowspan: 1
   thursday:
     content:
@@ -310,7 +312,7 @@ activities:
     rowspan: 1
   friday:
     content:
-      icon: "cutlery"
-      text: "**Hotel Dinner**"
+      icon: ""
+      text: ""
     rowspan: 1
   class: break

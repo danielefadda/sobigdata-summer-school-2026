@@ -5,10 +5,10 @@
 layout: default-full
 title: "Home"
 show_sidetoc: true
-subtitle: "22-28 June 2025 – Baratti (Piombino) – TUSCANY (Italy)"
+subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_type: hero #base, post, hero,image, splash
 header_img: assets/images/poggio.jpg
-header_title: "From Data to Social Innovation"
+header_title: "Data Analysis and AI<br> in Sport, Health and Wellbeing"
 ---
 
 <div class="full-width-wrapper">
@@ -63,11 +63,11 @@ The Summer School aims to equip researchers, data scientists and social scientis
             </div>
         <div class="col-md-6 col-sm-12">
             <h3>WHERE</h3>
-            <p class="lead">Nested in the gulf of Baratti on the “Etruscan Coast” in Tuscany (Italy), <a href="{{ site.baseurl }}{% link _pages/venue.markdown %}.html">Poggio all’Agnello </a> is a fully equipped resort that will host the 2025 edition of the SoBigData Summer school.
+            <p class="lead">Nested in the gulf of Baratti on the “Etruscan Coast” in Tuscany (Italy), <a href="{{ site.baseurl }}{% link _pages/venue.markdown %}.html">Poggio all’Agnello </a> is a fully equipped resort that will host the 2026 edition of the SoBigData Summer school.
             </p>
             <h3>Registration & Deadline</h3>
-            <p>Early registration until 30 April 2025.</p>
-            <p><strong>Late registration between 1 May 2025 and 31 May 2025 will have an additional cost.</strong></p>
+            <p>Early registration until 30 April 2026.</p>
+            <p><strong>Late registration between 1 May 2026 and 31 May 2026 will have an additional cost.</strong></p>
             </div>
         </div>
     </div>
@@ -157,18 +157,8 @@ The Summer School aims to equip researchers, data scientists and social scientis
             <h5>This summer school is organized and supported by</h5>
         <div class="logo-grid">
                     <img src="{{ site.baseurl }}/assets/images/Logo_SoBigData_RI_560_X_100.png" alt="SoBigData RI" >
-                    <img src="{{ site.baseurl }}/assets/images/Logo_SoBigData_ITA_560_X_100.png" alt="SoBigData it" >
                     <img src="{{ site.baseurl }}/assets/images/fondazioneAREA.png" alt="Fondazione area" >
         </div>
-        </div>
-    </div>
-</div>
-
-
-<div class="container py-5">
-    <div class="row">
-        <div class="col-md-12">
-            <img src="{{ site.baseurl }}/assets/images/sbd_it_footer@3x.png" alt="SoBigDataFooter" class="full-width-image">
         </div>
     </div>
 </div>

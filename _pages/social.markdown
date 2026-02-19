@@ -5,7 +5,7 @@
 layout: default-full
 title: "Home"
 show_sidetoc: true
-subtitle: "22-28 June 2025 – Baratti (Piombino) – TUSCANY (Italy)"
+subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_type: hero #base, post, hero,image, splash
 header_img: assets/images/poggio.jpg
 header_title: "From Data to Social Innovation"
@@ -23,7 +23,7 @@ header_title: "From Data to Social Innovation"
                 <h3>Social program </h3>
                 <p class="lead" style="text-align:justify">The social program is structured as follows:</p>
                     <ul>
-                        <li>A welcome cocktail on Sunday late afternoon 22 June 2025</li>
+                        <li>A welcome cocktail on Sunday late afternoon 21 June 2026</li>
 <li>Visit to the award-winning <a href="https://www.petrawine.it/en/home-english/" target="_blank"> Petra Winery</a>: a guided tour of the vineyards and the winery designed by architect Mario Botta and a dinner with wine tasting.</li>
 <li>Visit to the marine protected and <a href="https://www.parchivaldicornia.it/en/archaeological-parks/archaeological-park-of-baratti-and-populonia/" target="_blank"> archaeological area of Baratti-Populonia</a>.</li>
 <li>A dj-set night with pizza to celebrate the end of the school in an informal setting within the Poggio all’Agnello venue</li>

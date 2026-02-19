@@ -5,7 +5,7 @@
 layout: default-full
 title: "Home"
 show_sidetoc: true
-subtitle: "22-28 June 2025 – Baratti (Piombino) – TUSCANY (Italy)"
+subtitle: "21-26 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_type: hero #base, post, hero,image, splash
 header_img: assets/images/poggio.jpg
 header_title: "From Data to Social Innovation"
@@ -21,7 +21,7 @@ header_title: "From Data to Social Innovation"
         <div class="row pt-2 ">
             <div class="col-md-8 offset-md-2 col-sm-12">
                 <h3>The venue</h3>
-                <p class="lead" style="text-align:justify">Nested in the gulf of Baratti on the “Etruscan Coast” in Tuscany (Italy), <a href="https://www.poggioallagnello.it/en/">Poggio all’Agnello </a> is a fully equipped resort that will host the 2025 edition of the SoBigData Summer school.</p>
+                <p class="lead" style="text-align:justify">Nested in the gulf of Baratti on the “Etruscan Coast” in Tuscany (Italy), <a href="https://www.poggioallagnello.it/en/">Poggio all’Agnello </a> is a fully equipped resort that will host the 2026 edition of the SoBigData Summer school.</p>
                 <p>The venue has:</p>
                     <ul>
                         <li>Fully equipped conference rooms</li>
