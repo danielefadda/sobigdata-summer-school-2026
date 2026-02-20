@@ -22,7 +22,7 @@ header_title: "Data Analysis and AI<br> in Sport, Health and Wellbeing"
                <h3>
 The Summer School aims to equip researchers, data scientists and social scientists with the methodologies and insights necessary to address complex societal challenges.
 </h3>
-                <p class="mt-3"><strong>The school is organised in four thematic days about the:</strong></p>
+                <p class="mt-3"><strong>The school is organised in four thematic days:</strong></p>
             </div>
         </div>
     </div>

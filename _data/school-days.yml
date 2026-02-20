@@ -7,7 +7,7 @@
 - day: "3. Sport Analytics and Agentic AI"
   description: "Examination of data-driven approaches in sports analytics, specifically in soccer and volleyball, alongside the application of emerging agentic AI methods."
 
-- day: "4. Privacy and Fairness"
-  description: "Focus on Privacy and Fairness to understand how to handle data and design modelling solutions that adhere to the principles of Responsible Data Science."
+- day: "4. Privacy, Fairness and Security"
+  description: "The final day addresses the critical themes of privacy, security, fairness, and responsibility in data science."
 
   
