@@ -8,6 +8,7 @@
   title: "Introduction to SoBigData RI and Summer School 2026"
   bio: "She is in the management team of the SoBigData Research Infrastructure, the European Research Infrastructure for Big Data and Social Mining and she is the Research Infrastructure Manager of SoBigData.it. A statistician, graduated in Statistics and Economics at University of Siena, she got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015."
   day: 5
+  program: false
 - name: "Anna"
   surname: "Monreale"
   institution: "University of Pisa"
@@ -16,9 +17,9 @@
   topics: ["Privacy", "Data Mining", "Social Mining"]
   home: false
   title: ""
-  bio: ""
+  bio: "Anna Monreale is an Associate Professor at the Computer Science Department of the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD-Lab), a joint research group with the Information Science and Technology Institute of the National Research Council in Pisa. She has been a visiting student at Department of Computer Science of the Stevens Institute of Technology (Hoboken, NewJersey, USA) (2010)."
   day: 5
-
+  program: true
 - name: "Roberto"
   surname: "Trasarti"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
@@ -29,7 +30,7 @@
   title: "SoBigData RI: Scientific Vision and Challenges"
   bio: "Roberto Trasarti is a Senior Researcher at ISTI-CNR and the Coordinator of the SoBigData Research Infrastructure. He holds a Ph.D. in Computer Science from the University of Pisa. His research focuses on Data Mining, Spatio-Temporal Data Analysis, Artificial Intelligence, and Automatic Reasoning. He leads the Knowledge Discovery and Delivery Laboratory's efforts in mobility analysis and social mining."
   day: 1
-
+  program: true
 - name: "Mark"
   surname: "Coté"
   institution: "King’s College London"
@@ -40,7 +41,7 @@
   title: "Human-AI Coevolution and Societal Impact"
   bio: "Mark Coté is a Reader in Data & Society in the Department of Digital Humanities at King’s College London. His cross-disciplinary research examines the societal and governance infrastructures of data-driven AI. He provides national and European research leadership as UK Node Lead for SoBigData and as a PI at REPHRAIN, the UKRI national research centre on privacy, harm reduction and adversarial influence online."
   day: 5
-
+  program: true
 - name: "Maurizio"
   surname: "Napolitano"
   institution: "Fondazione Bruno Kessler (FBK)"
@@ -51,7 +52,7 @@
   title: "Volleyball Analytics: Data and Real-World Applications"
   bio: "Maurizio Napolitano is a technologist and head of the Digital Commons Lab unit at Fondazione Bruno Kessler, working on data governance, geospatial technologies, and artificial intelligence applied to public data. He has been a volleyball coach for over 30 years and is also a coach educator for the Italian Volleyball Federation."
   day: 2
-
+  program: false
 - name: "Jose"
   surname: "Such"
   institution: "Spanish National Research Council (CSIC)"
@@ -62,7 +63,7 @@
   title: "Human-centred AI Privacy"
   bio: "Prof Jose Such is Research Professor at the Spanish National Research Council (CSIC), where he leads the Human-centred AI Security, Ethics and Privacy (HASP) Lab. Previously, he was Full Professor of Computer Science at King’s College London. His research interests are at the intersection between Artificial Intelligence, Human-Computer Interaction, and Cyber Security."
   day: 2
-
+  program: true
 - name: "Francesca"
   surname: "Naretto"
   institution: "University of Pisa / Scuola Normale Superiore"
@@ -73,6 +74,7 @@
   title: "Synergies and Tensions: Explainability, Privacy and Fairness in AI"
   bio: "Francesca Naretto is a Researcher at the University of Pisa. She has a Ph.D. in Data Science from Scuola Normale Superiore, Italy, with a thesis on the synergies and tensions between Data Privacy and Explainability, awarded as Best Phd thesis at the ITADATA 2024 conference. Her research interests are in explainable artificial intelligence, data privacy, fairness and federated learning."
   day: 3
+  program: true
 
 - name: "Alessio"
   surname: "Rossi"
@@ -84,7 +86,7 @@
   title: "The Role of the Data Analyst in Elite Football"
   bio: "Alessio Rossi is a sport performance data scientist with a strong background in sport science and biomedical research. He holds a PhD focused on predictive modelling in sport science. He currently works in professional football, applying data analysis, machine learning, and statistical modelling to transform datasets into actionable insights."
   day: 3
-
+  program: true
 - name: "Elizabeth"
   surname: "Black"
   institution: "King’s College London"
@@ -95,7 +97,7 @@
   title: "Towards Trustworthy and Responsible AI"
   bio: "Elizabeth Black is Professor of Artificial Intelligence at King’s College London and a Turing Fellow at the Alan Turing Institute. She is Director of the UKRI Centre for Doctoral Training in Safe and Trusted AI. Her research focuses on computational models of argumentation, trustworthy AI, and the development of AI systems that uphold human values."
   day: 4
-
+  program: true
 - name: "Awais"
   surname: "Rashid"
   institution: "University of Bristol"
@@ -106,6 +108,7 @@
   title: "Do LLMs Dream of Elliptic Curves: Security Considerations for AI Usage"
   bio: "Awais Rashid is Professor of Cyber Security at University of Bristol where he heads the Cyber Security Group. He is Director of the EPSRC Centre for Doctoral Training in Cyber Security and Director of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN). His research focuses on security and privacy of large connected infrastructures."
   day: 4
+  program: true
 
 - name: "Sara"
   surname: "Colantonio"
@@ -117,6 +120,7 @@
   title: "Watching You Move: Tracking Human Movement for Exercise and Rehabilitation"
   bio: "Senior researcher from the \"Signals and Images\" Laboratory in Pisa. Her research interests include machine learning, assistive technologies, personal informatics, and trustworthy AI. Co-authored over 120 scientific papers and coordinated FP7 projects on smart health systems. Recognized as one of the 40 Top Transformers in health (2016). Member of the international expert group AI4HI, contributing to FUTURE-AI guidelines on trustworthy AI in medical applications."
   day: 2
+  program: true
 - name: "Salvo"
   surname: "Rinzivillo"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
@@ -125,5 +129,6 @@
   topics: ["XUI", "XAI","Explainable User Interfaces", "UI Design"]
   home: false
   title: 'Introducing XUI: Enhancing Model Reliability through eXplainable User Interfaces'
-  bio: "SR is a computer scientist, specialized in AI and machine learning, particularly focusing on enhancing explainability within these fields to foster trust and reliability. With a keen interest in visual representations of data, he bridges the gap between technology and understanding, making complex concepts accessible to all audiences. Beyond his professional pursuits, his background as a maker drives him to continually explore new possibilities and push boundaries in creative problem-solving."
+  bio: "Salvatore Rinzivillo is a computer scientist, specialized in AI and machine learning, particularly focusing on enhancing explainability within these fields to foster trust and reliability. With a keen interest in visual representations of data, he bridges the gap between technology and understanding, making complex concepts accessible to all audiences. Beyond his professional pursuits, his background as a maker drives him to continually explore new possibilities and push boundaries in creative problem-solving."
   day: 2
+  program: true

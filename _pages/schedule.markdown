@@ -6,7 +6,7 @@ layout: default-full
 title: "Home"
 show_sidetoc: true
 subtitle: "21-27 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
-header_title: "From Data to Social Innovation"
+header_title: "Data Analysis and AI <br>in Sport, Health and Wellbeing"
 ---
 
 <div class="full-width-wrapper">
@@ -92,8 +92,9 @@ header_title: "From Data to Social Innovation"
             <div class="col-md-8 offset-md-2 col-sm-12">
             <div class="container py-3" id="projects-container">
         <h3>All the speakers</h3>   
-        {% assign sorted_speakers = site.data.speaker-cards | sort: "surname" %}
+        {% assign sorted_speakers = site.data.speaker-cards | sort: "day" %}
             {% for speaker in sorted_speakers %}
+                {% if speaker.program %}
                 <div class="row py-3 my-3 project" >
                         <div class="col-md-4">
                             <div class="project-img"><img src="{{site.baseurl}}{{ speaker.img_url}}" alt="{{ speaker.name }}" style="width:100%"></div>
@@ -107,6 +108,7 @@ header_title: "From Data to Social Innovation"
                             </div>
                         </div>
                 </div>
+                {% endif %}
         {% endfor %}
 </div>
             </div>

@@ -12,8 +12,8 @@ activities:
   sunday:
     content:
       icon: "comments"
-      text: "**Meeting Tutors**"
-    rowspan: 13
+      text: "**Meeting the Tutors**"
+    rowspan: 11
   monday:
     content:
       icon: "id-card"
