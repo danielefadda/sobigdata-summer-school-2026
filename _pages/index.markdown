@@ -4,7 +4,7 @@
 
 layout: default-full
 title: "Home"
-show_sidetoc: true
+show_sidetoc: false
 subtitle: "21-27 June 2026 – Baratti (Piombino) – TUSCANY (Italy)"
 header_type: hero #base, post, hero,image, splash
 header_img: assets/images/pool-1.jpg

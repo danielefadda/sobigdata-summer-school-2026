@@ -9,6 +9,17 @@
   bio: "She is in the management team of the SoBigData Research Infrastructure, the European Research Infrastructure for Big Data and Social Mining and she is the Research Infrastructure Manager of SoBigData.it. A statistician, graduated in Statistics and Economics at University of Siena, she got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015."
   day: 5
   program: false
+- name: "Valerio"
+  surname: "Grossi"
+  institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
+  img_url:  "/assets/images/speaker_Grossi.jpg"
+  description: "This tutorial will provide an introduction to the SoBigData Lab, a comprehensive platform for big data analytics and social mining. Participants will learn how to access and utilize the lab's tools and resources for their research projects, with a focus on practical applications in data analysis, machine learning, and ethical considerations in data science."
+  topics: ["Research Infrastructure","Social Mining","Ethical Data Science"]
+  home: false
+  title: "Tutorial SoBigData Lab"
+  bio: "Valerio Grossi is a Senior Researcher at ISTI-CNR. He holds a PhD in Computer Science from the University of Pisa. His research interests focus on machine learning and the analysis of massive and complex data, including data stream mining, ontology-driven mining, business intelligence, and automatic knowledge extraction systems. He is a member of SoBigData's management team."
+  day: 1
+  program: true
 - name: "Anna"
   surname: "Monreale"
   institution: "University of Pisa"
@@ -18,8 +29,8 @@
   home: false
   title: ""
   bio: "Anna Monreale is an Associate Professor at the Computer Science Department of the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD-Lab), a joint research group with the Information Science and Technology Institute of the National Research Council in Pisa. She has been a visiting student at Department of Computer Science of the Stevens Institute of Technology (Hoboken, NewJersey, USA) (2010)."
-  day: 5
-  program: true
+  day: 1
+  program: false
 - name: "Roberto"
   surname: "Trasarti"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
@@ -73,7 +84,7 @@
   home: false
   title: "Synergies and Tensions: Explainability, Privacy and Fairness in AI"
   bio: "Francesca Naretto is a Researcher at the University of Pisa. She has a Ph.D. in Data Science from Scuola Normale Superiore, Italy, with a thesis on the synergies and tensions between Data Privacy and Explainability, awarded as Best Phd thesis at the ITADATA 2024 conference. Her research interests are in explainable artificial intelligence, data privacy, fairness and federated learning."
-  day: 3
+  day: 4
   program: true
 
 - name: "Alessio"
@@ -87,13 +98,24 @@
   bio: "Alessio Rossi is a sport performance data scientist with a strong background in sport science and biomedical research. He holds a PhD focused on predictive modelling in sport science. He currently works in professional football, applying data analysis, machine learning, and statistical modelling to transform datasets into actionable insights."
   day: 3
   program: true
+- name: "Vasiliki"
+  surname: "Voukelatou"
+  institution: "UN World Food Programme (WFP)"
+  img_url: "/assets/images/speaker_Voukelatou.jpg"
+  description: "Elite football clubs generate vast amounts of data. This talk will present practical examples of the types of data currently available in professional football, illustrate how they are used in real operational contexts, and explain how a Data Analytics department is structured within an elite football organisation."
+  topics: ["Sports Science", "Predictive Modelling", "Performance Analysis"]
+  home: false
+  title: "The Role of the Data Analyst in Elite Football"
+  bio: "Vasiliki Voukelatou is a Data Scientist at the UN World Food Programme, where she develops machine-learning models for nutrition applications and supports deployments on HungerMapLive."
+  day: 3
+  program: true
 - name: "Elizabeth"
   surname: "Black"
   institution: "King’s College London"
   img_url: "/assets/images/speaker_Black.jpg"
   description: "Recent advances in AI are transforming how we reason, create, and make decisions. This talk examines where these developments are taking us, discussing key risks and limitations of current AI systems, from bias to transparency challenges, and outlining steps to ensure positive and equitable impacts."
   topics: ["Trustworthy AI", "Argumentation", "AI Ethics"]
-  home: true
+  home: false
   title: "Towards Trustworthy and Responsible AI"
   bio: "Elizabeth Black is Professor of Artificial Intelligence at King’s College London and a Turing Fellow at the Alan Turing Institute. She is Director of the UKRI Centre for Doctoral Training in Safe and Trusted AI. Her research focuses on computational models of argumentation, trustworthy AI, and the development of AI systems that uphold human values."
   day: 4
@@ -109,7 +131,6 @@
   bio: "Awais Rashid is Professor of Cyber Security at University of Bristol where he heads the Cyber Security Group. He is Director of the EPSRC Centre for Doctoral Training in Cyber Security and Director of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN). His research focuses on security and privacy of large connected infrastructures."
   day: 4
   program: true
-
 - name: "Sara"
   surname: "Colantonio"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"

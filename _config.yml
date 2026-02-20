@@ -50,6 +50,8 @@ navbar:
   nav:
     - title: Program
       url: /schedule.html
+    - title: Speakers
+      url: /speakers.html
     - title: Venue
       url: /venue.html
     - title: Registration

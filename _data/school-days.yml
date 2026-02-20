@@ -1,8 +1,13 @@
 - day: "1. SoBigData RI and Project challenges"
-  description: "Understanding what SoBigData can offer and Presentation of companies and association social challenges"
+  description: "Introduction to the SoBigData Research Infrastructure followed by the presentation of real-world social challenges by companies and associations to inspire collaborative projects."
+
 - day: "2. Health and Wellbeing"
-  description: "Intersection of AI and healthcare, personal wellbeing, and health data. Data Analysis and Visualization"
+  description: "Exploration of the intersection between AI and healthcare, analyzing personal wellbeing and health data through advanced data analysis and visualization techniques."
+
 - day: "3. Sport Analytics and Agentic AI"
-  description: "Data Analysis applied to soccer and volleyball, and agentic AI techniques"
+  description: "Examination of data-driven approaches in sports analytics, specifically in soccer and volleyball, alongside the application of emerging agentic AI methods."
+
 - day: "4. Privacy and Fairness"
-  description: "Handling data taking into consideration the ethical and legal requirements is essential for a Responsible Data Science"
+  description: "Focus on Privacy and Fairness to understand how to handle data and design modelling solutions that adhere to the principles of Responsible Data Science."
+
+  
