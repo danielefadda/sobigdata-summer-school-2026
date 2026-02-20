@@ -34,3 +34,17 @@ registration:
     start: "1 May 2026"
     deadline: "31 May 2026"
     description: "Late registration will have an additional cost"
+
+days:
+  - day: "Day 1: SoBigData RI and Project Challenges"
+    description: |
+      The opening day introduces participants to the SoBigData Research Infrastructure, providing a clear overview of the tools, services, and opportunities it offers to the research and data science community. Experts will present how SoBigData supports interdisciplinary research and fosters collaboration across domains. The day also features presentations from companies and associations that will outline real-world social challenges. These case studies will serve as inspiration and starting points for the group projects that participants will develop throughout the summer school, helping to ground the technical work in concrete societal needs.
+  - day: "Day 2: Health and Wellbeing"
+    description: |
+     The second day focuses on the rapidly evolving intersection between artificial intelligence and healthcare, with particular attention to personal wellbeing and the responsible use of health data. Participants will explore how data analysis and visualization techniques can be applied to understand health trends, support clinical decision-making, and promote preventive care. Through expert lectures and practical examples, the sessions will highlight both the opportunities and the challenges of working with sensitive health information, emphasizing methodological rigor and ethical awareness.
+  - day: "Day 3: Sport Analytics and Agentic AI"
+    description: |
+     This day is dedicated to data-driven approaches in sports and the emerging paradigm of agentic AI. Participants will learn how advanced analytics can be applied to domains such as soccer and volleyball, including performance analysis, tactical evaluation, and injuries prediction. In parallel, the concept of agentic AI will be introduced, focusing on systems capable of autonomous or semi-autonomous decision-making. By combining sports case studies with AI methodology, the day provides a dynamic environment to understand how intelligent systems can support complex, real-time analytical tasks.
+  - day: "Day 4: Privacy and Fairness"
+    description: |
+     The final day addresses the critical themes of privacy, fairness, and responsibility in data science. Participants will examine the ethical and legal requirements involved in collecting, processing, and modeling data, with special attention to possible mitigation, transparency, and compliance with data protection regulations. Through lectures and discussions, the sessions will emphasize best practices for building trustworthy and socially responsible AI systems. This concluding theme encourages participants to integrate ethical reflection into every stage of the data science pipeline, reinforcing the importance of responsible innovation.
