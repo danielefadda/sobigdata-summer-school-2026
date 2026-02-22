@@ -1,14 +1,3 @@
-- name: "Michela"
-  surname: "Natilli"
-  institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
-  img_url:  "/assets/images/speaker_Natilli.jpg"
-  description: "This presentation will introduce the SoBigData RI, a Pan-European platform enabling responsible big data analytics for social good, and its role in advancing ethical data science. It will also highlight the key themes of the SoBigData Summer School 2026. The school will offer hands-on training in information, political, and social dynamics alongside discussions on the European research framework."
-  topics: ["Research Infrastructure","Social Mining","Ethical Data Science"]
-  home: false
-  title: "Introduction to SoBigData RI and Summer School 2026"
-  bio: "She is in the management team of the SoBigData Research Infrastructure, the European Research Infrastructure for Big Data and Social Mining and she is the Research Infrastructure Manager of SoBigData.it. A statistician, graduated in Statistics and Economics at University of Siena, she got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015."
-  day: 5
-  program: false
 - name: "Valerio"
   surname: "Grossi"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
@@ -42,95 +31,6 @@
   bio: "Roberto Trasarti is a Senior Researcher at ISTI-CNR and the Coordinator of the SoBigData Research Infrastructure. He holds a Ph.D. in Computer Science from the University of Pisa. His research focuses on Data Mining, Spatio-Temporal Data Analysis, Artificial Intelligence, and Automatic Reasoning. He leads the Knowledge Discovery and Delivery Laboratory's efforts in mobility analysis and social mining."
   day: 1
   program: true
-- name: "Mark"
-  surname: "Coté"
-  institution: "King’s College London"
-  img_url:  "/assets/images/speaker_Cote.jpg"
-  description: "Human-AI coevolution, the process in which humans and AI algorithms continuously influence each other, increasingly characterises our society. This talk will discuss relevant studies on the impact of AI-driven recommendations on human behaviour in social media, geographic mapping, online retail and chatbot ecosystems, and the challenges of measuring and modelling the human-AI feedback loop."
-  topics: ["Data and Society", "Human-AI Interaction", "Social Data Analytics"]
-  home: false
-  title: "Human-AI Coevolution and Societal Impact"
-  bio: "Mark Coté is a Reader in Data & Society in the Department of Digital Humanities at King’s College London. His cross-disciplinary research examines the societal and governance infrastructures of data-driven AI. He provides national and European research leadership as UK Node Lead for SoBigData and as a PI at REPHRAIN, the UKRI national research centre on privacy, harm reduction and adversarial influence online."
-  day: 5
-  program: true
-- name: "Maurizio"
-  surname: "Napolitano"
-  institution: "Fondazione Bruno Kessler (FBK)"
-  img_url: "/assets/images/speaker_Napolitano.jpg"
-  description: "Volleyball is a structured and sequential team sport in which each rally can be described as a chain of interdependent actions. This talk provides a pragmatic overview of how volleyball is currently analyzed in professional environments, describing how actions are encoded as event data and outlining the main analytical approaches used in practice."
-  topics: ["Sports Analytics", "Data Governance", "Geospatial Technologies"]
-  home: false
-  title: "Volleyball Analytics: Data and Real-World Applications"
-  bio: "Maurizio Napolitano is a technologist and head of the Digital Commons Lab unit at Fondazione Bruno Kessler, working on data governance, geospatial technologies, and artificial intelligence applied to public data. He has been a volleyball coach for over 30 years and is also a coach educator for the Italian Volleyball Federation."
-  day: 2
-  program: false
-- name: "Jose"
-  surname: "Such"
-  institution: "Spanish National Research Council (CSIC)"
-  img_url: "/assets/images/speaker_Such.png"
-  description: "AI has had tremendous success recently in solving complex problems, but it also introduces risks. This talk focuses on privacy risks in AI-based systems from a human-centred perspective, discussing research towards making AI-based systems privacy-aware and helping users manage their privacy."
-  topics: ["Human-Centred AI", "Privacy", "Cyber Security"]
-  home: true
-  title: "Human-centred AI Privacy"
-  bio: "Prof Jose Such is Research Professor at the Spanish National Research Council (CSIC), where he leads the Human-centred AI Security, Ethics and Privacy (HASP) Lab. Previously, he was Full Professor of Computer Science at King’s College London. His research interests are at the intersection between Artificial Intelligence, Human-Computer Interaction, and Cyber Security."
-  day: 2
-  program: true
-- name: "Francesca"
-  surname: "Naretto"
-  institution: "University of Pisa / Scuola Normale Superiore"
-  img_url: "/assets/images/speaker_Naretto.png"
-  description: "Machine learning systems hold a central role in decision-making, but ethical values like explainability, privacy and fairness are interconnected and often in tension. This talk explores these synergies, discussing post-hoc explanation approaches with privacy guarantees and fairness in decentralized settings."
-  topics: ["Explainable AI (XAI)", "Data Privacy", "Fairness"]
-  home: false
-  title: "Synergies and Tensions: Explainability, Privacy and Fairness in AI"
-  bio: "Francesca Naretto is a Researcher at the University of Pisa. She has a Ph.D. in Data Science from Scuola Normale Superiore, Italy, with a thesis on the synergies and tensions between Data Privacy and Explainability, awarded as Best Phd thesis at the ITADATA 2024 conference. Her research interests are in explainable artificial intelligence, data privacy, fairness and federated learning."
-  day: 4
-  program: true
-
-- name: "Alessio"
-  surname: "Rossi"
-  institution: "Olympique de Marseille"
-  img_url: "/assets/images/speaker_Rossi2.jpg"
-  description: "Elite football clubs generate vast amounts of data. This talk will present practical examples of the types of data currently available in professional football, illustrate how they are used in real operational contexts, and explain how a Data Analytics department is structured within an elite football organisation."
-  topics: ["Sports Science", "Predictive Modelling", "Performance Analysis"]
-  home: true
-  title: "The Role of the Data Analyst in Elite Football"
-  bio: "Alessio Rossi is a sport performance data scientist with a strong background in sport science and biomedical research. He holds a PhD focused on predictive modelling in sport science. He currently works in professional football, applying data analysis, machine learning, and statistical modelling to transform datasets into actionable insights."
-  day: 3
-  program: true
-- name: "Vasiliki"
-  surname: "Voukelatou"
-  institution: "UN World Food Programme (WFP)"
-  img_url: "/assets/images/speaker_Voukelatou.jpg"
-  description: "Vasiliki Voukelatou is a Data Scientist at the UN World Food Programme, where she develops machine-learning models for nutrition applications and supports deployments on HungerMapLive."
-  topics: ["Data Science", "Machine Learning", "Nutrition"]
-  home: false
-  title: "Data Science for Nutrition and Food Security"
-  bio: "Vasiliki Voukelatou is a Data Scientist at the UN World Food Programme, where she develops machine-learning models for nutrition applications and supports deployments on HungerMapLive."
-  day: 3
-  program: true
-- name: "Elizabeth"
-  surname: "Black"
-  institution: "King’s College London"
-  img_url: "/assets/images/speaker_Black.jpg"
-  description: "Recent advances in AI are transforming how we reason, create, and make decisions. This talk examines where these developments are taking us, discussing key risks and limitations of current AI systems, from bias to transparency challenges, and outlining steps to ensure positive and equitable impacts."
-  topics: ["Trustworthy AI", "Argumentation", "AI Ethics"]
-  home: false
-  title: "Towards Trustworthy and Responsible AI"
-  bio: "Elizabeth Black is Professor of Artificial Intelligence at King’s College London and a Turing Fellow at the Alan Turing Institute. She is Director of the UKRI Centre for Doctoral Training in Safe and Trusted AI. Her research focuses on computational models of argumentation, trustworthy AI, and the development of AI systems that uphold human values."
-  day: 4
-  program: true
-- name: "Awais"
-  surname: "Rashid"
-  institution: "University of Bristol"
-  img_url: "/assets/images/speaker_Rashid.jpg"
-  description: "This talk discusses the security implications and considerations for using LLMs in software development tasks. It looks at how professionals are utilising them, concerns about quality and security of AI generated code, and how such code should be scrutinised and validated."
-  topics: ["Cyber Security", "LLMs", "Software Engineering"]
-  home: false
-  title: "Do LLMs Dream of Elliptic Curves: Security Considerations for AI Usage"
-  bio: "Awais Rashid is Professor of Cyber Security at University of Bristol where he heads the Cyber Security Group. He is Director of the EPSRC Centre for Doctoral Training in Cyber Security and Director of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN). His research focuses on security and privacy of large connected infrastructures."
-  day: 4
-  program: true
 - name: "Sara"
   surname: "Colantonio"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
@@ -152,4 +52,103 @@
   title: 'Introducing XUI: Enhancing Model Reliability through eXplainable User Interfaces'
   bio: "Salvatore Rinzivillo is a computer scientist, specialized in AI and machine learning, particularly focusing on enhancing explainability within these fields to foster trust and reliability. With a keen interest in visual representations of data, he bridges the gap between technology and understanding, making complex concepts accessible to all audiences. Beyond his professional pursuits, his background as a maker drives him to continually explore new possibilities and push boundaries in creative problem-solving."
   day: 2
+  program: true
+- name: "Alessio"
+  surname: "Rossi"
+  institution: "Olympique de Marseille"
+  img_url: "/assets/images/speaker_Rossi2.jpg"
+  description: "Elite football clubs generate vast amounts of data. This talk will present practical examples of the types of data currently available in professional football, illustrate how they are used in real operational contexts, and explain how a Data Analytics department is structured within an elite football organisation."
+  topics: ["Sports Science", "Predictive Modelling", "Performance Analysis"]
+  home: true
+  title: "The Role of the Data Analyst in Elite Football"
+  bio: "Alessio Rossi is a sport performance data scientist with a strong background in sport science and biomedical research. He holds a PhD focused on predictive modelling in sport science. He currently works in professional football, applying data analysis, machine learning, and statistical modelling to transform datasets into actionable insights."
+  day: 3
+  program: true
+- name: "Maurizio"
+  surname: "Napolitano"
+  institution: "Fondazione Bruno Kessler (FBK)"
+  img_url: "/assets/images/speaker_Napolitano.jpg"
+  description: "Volleyball is a structured and sequential team sport in which each rally can be described as a chain of interdependent actions. This talk provides a pragmatic overview of how volleyball is currently analyzed in professional environments, describing how actions are encoded as event data and outlining the main analytical approaches used in practice."
+  topics: ["Sports Analytics", "Data Governance", "Geospatial Technologies"]
+  home: false
+  title: "Volleyball Analytics: Data and Real-World Applications"
+  bio: "Maurizio Napolitano is a technologist and head of the Digital Commons Lab unit at Fondazione Bruno Kessler, working on data governance, geospatial technologies, and artificial intelligence applied to public data. He has been a volleyball coach for over 30 years and is also a coach educator for the Italian Volleyball Federation."
+  day: 3
+  program: true 
+- name: "Francesca"
+  surname: "Naretto"
+  institution: "University of Pisa / Scuola Normale Superiore"
+  img_url: "/assets/images/speaker_Naretto.png"
+  description: "Machine learning systems hold a central role in decision-making, but ethical values like explainability, privacy and fairness are interconnected and often in tension. This talk explores these synergies, discussing post-hoc explanation approaches with privacy guarantees and fairness in decentralized settings."
+  topics: ["Explainable AI (XAI)", "Data Privacy", "Fairness"]
+  home: false
+  title: "Synergies and Tensions: Explainability, Privacy and Fairness in AI"
+  bio: "Francesca Naretto is a Researcher at the University of Pisa. She has a Ph.D. in Data Science from Scuola Normale Superiore, Italy, with a thesis on the synergies and tensions between Data Privacy and Explainability, awarded as Best Phd thesis at the ITADATA 2024 conference. Her research interests are in explainable artificial intelligence, data privacy, fairness and federated learning."
+  day: 4
+  program: true
+- name: "Jose"
+  surname: "Such"
+  institution: "Spanish National Research Council (CSIC)"
+  img_url: "/assets/images/speaker_Such.png"
+  description: "AI has had tremendous success recently in solving complex problems, but it also introduces risks. This talk focuses on privacy risks in AI-based systems from a human-centred perspective, discussing research towards making AI-based systems privacy-aware and helping users manage their privacy."
+  topics: ["Human-Centred AI", "Privacy", "Cyber Security"]
+  home: true
+  title: "Human-centred AI Privacy"
+  bio: "Prof Jose Such is Research Professor at the Spanish National Research Council (CSIC), where he leads the Human-centred AI Security, Ethics and Privacy (HASP) Lab. Previously, he was Full Professor of Computer Science at King’s College London. His research interests are at the intersection between Artificial Intelligence, Human-Computer Interaction, and Cyber Security."
+  day: 4
+  program: true
+- name: "Vasiliki"
+  surname: "Voukelatou"
+  institution: "UN World Food Programme (WFP)"
+  img_url: "/assets/images/speaker_Voukelatou.jpg"
+  description: "The United Nations World Food Programme (WFP) is the world’s largest humanitarian organization, mandated to combat hunger and promote food security worldwide. This presentation will highlight how WFP applies advanced data science for humanitarian impact, focusing on machine learning models for nutrition and food security monitoring. It will also cover research on generative AI for synthetic spatial data and geospatial methods for assessing food market accessibility."
+  topics: ["Data Science", "Machine Learning", "Nutrition"]
+  home: false
+  title: "Data Science for Nutrition and Food Security"
+  bio: "Vasiliki is a Data Scientist at the United Nations World Food Programme in Rome, where she develops machine learning models for nutrition and food security monitoring. Her work leverages data science techniques for humanitarian impact, ranging from field missions to applied research and collaborations with academia. She holds a Ph.D. in Data Science from Scuola Normale Superiore, with research on wellbeing and peace at the intersection of AI and social good"
+  day: 2
+  program: true
+- name: "Elizabeth"
+  surname: "Black"
+  institution: "King’s College London"
+  img_url: "/assets/images/speaker_Black.jpg"
+  description: "Recent advances in AI are transforming how we reason, create, and make decisions. This talk examines where these developments are taking us, discussing key risks and limitations of current AI systems, from bias to transparency challenges, and outlining steps to ensure positive and equitable impacts."
+  topics: ["Trustworthy AI", "Argumentation", "AI Ethics"]
+  home: false
+  title: "Towards Trustworthy and Responsible AI"
+  bio: "Elizabeth Black is Professor of Artificial Intelligence at King’s College London and a Turing Fellow at the Alan Turing Institute. She is Director of the UKRI Centre for Doctoral Training in Safe and Trusted AI. Her research focuses on computational models of argumentation, trustworthy AI, and the development of AI systems that uphold human values."
+  day: 3
+  program: true
+- name: "Awais"
+  surname: "Rashid"
+  institution: "University of Bristol"
+  img_url: "/assets/images/speaker_Rashid.jpg"
+  description: "This talk discusses the security implications and considerations for using LLMs in software development tasks. It looks at how professionals are utilising them, concerns about quality and security of AI generated code, and how such code should be scrutinised and validated."
+  topics: ["Cyber Security", "LLMs", "Software Engineering"]
+  home: false
+  title: "Do LLMs Dream of Elliptic Curves: Security Considerations for AI Usage"
+  bio: "Awais Rashid is Professor of Cyber Security at University of Bristol where he heads the Cyber Security Group. He is Director of the EPSRC Centre for Doctoral Training in Cyber Security and Director of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN). His research focuses on security and privacy of large connected infrastructures."
+  day: 4
+  program: true
+- name: "Michela"
+  surname: "Natilli"
+  institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
+  img_url:  "/assets/images/speaker_Natilli.jpg"
+  description: "This presentation will introduce the SoBigData RI, a Pan-European platform enabling responsible big data analytics for social good, and its role in advancing ethical data science. It will also highlight the key themes of the SoBigData Summer School 2026. The school will offer hands-on training in information, political, and social dynamics alongside discussions on the European research framework."
+  topics: ["Research Infrastructure","Social Mining","Ethical Data Science"]
+  home: false
+  title: "Introduction to SoBigData RI and Summer School 2026"
+  bio: "She is in the management team of the SoBigData Research Infrastructure, the European Research Infrastructure for Big Data and Social Mining and she is the Research Infrastructure Manager of SoBigData.it. A statistician, graduated in Statistics and Economics at University of Siena, she got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015."
+  day: 5
+  program: false
+- name: "Mark"
+  surname: "Coté"
+  institution: "King’s College London"
+  img_url:  "/assets/images/speaker_Cote.jpg"
+  description: "Human-AI coevolution, the process in which humans and AI algorithms continuously influence each other, increasingly characterises our society. This talk will discuss relevant studies on the impact of AI-driven recommendations on human behaviour in social media, geographic mapping, online retail and chatbot ecosystems, and the challenges of measuring and modelling the human-AI feedback loop."
+  topics: ["Data and Society", "Human-AI Interaction", "Social Data Analytics"]
+  home: false
+  title: "Human-AI Coevolution and Societal Impact"
+  bio: "Mark Coté is a Reader in Data & Society in the Department of Digital Humanities at King’s College London. His cross-disciplinary research examines the societal and governance infrastructures of data-driven AI. He provides national and European research leadership as UK Node Lead for SoBigData and as a PI at REPHRAIN, the UKRI national research centre on privacy, harm reduction and adversarial influence online."
+  day: 5
   program: true

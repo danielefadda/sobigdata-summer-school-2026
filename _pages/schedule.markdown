@@ -110,7 +110,7 @@ header_title: "Data Analysis and AI <br>in Sport, Health and Wellbeing"
                 <div class="card">
                     <div class="card-header" id="heading{{ forloop.index }}">
                         <h5 class="mb-0">
-                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ forloop.index }}" style="font-size: 1.25rem; color: #07286E; text-decoration: none;">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ forloop.index }}" aria-expanded="{% if forloop.first %}true{% else %}false{% endif %}" aria-controls="collapse{{ forloop.index }}" style="font-size: 1.25rem; color: #07286E; text-decoration: none;">
                                 <span class="accordion-toggle">
                                     <i class="fas fa-plus"></i>
                                     <i class="fas fa-minus" style="display: none;"></i>
@@ -119,7 +119,7 @@ header_title: "Data Analysis and AI <br>in Sport, Health and Wellbeing"
                             </button>
                         </h5>
                     </div>
-                    <div id="collapse{{ forloop.index }}" class="collapse" aria-labelledby="heading{{ forloop.index }}" data-parent="#daysAccordion">
+                    <div id="collapse{{ forloop.index }}" class="collapse{% if forloop.first %} show{% endif %}" aria-labelledby="heading{{ forloop.index }}" data-parent="#daysAccordion">
                         <div class="card-body">
                             {{ day_info.description | markdownify }}
                         </div>

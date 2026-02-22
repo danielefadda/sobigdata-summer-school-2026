@@ -27,7 +27,7 @@ The Summer School aims to equip researchers, data scientists and social scientis
         </div>
     </div>
 </div>
-<div class="container-fluid my-5">
+<div class="container-fluid my-3 py-5 full-width-wrapper bg-color-full bg-color">
 {% include img-gallery-cards.html 
     datasource='school-days'
     img_url='image'
