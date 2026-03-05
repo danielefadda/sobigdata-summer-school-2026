@@ -118,7 +118,7 @@ activities:
   monday:
     content:
       icon: "comment"
-      text: "**Project Challenges Presentation**"
+      text: "**Project Challenges Presentation**<br> (Sgandurra, others T.B.A.)"
     rowspan: 2
   tuesday:
     content:

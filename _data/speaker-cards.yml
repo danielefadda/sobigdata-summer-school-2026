@@ -152,3 +152,14 @@
   bio: "Mark Coté is a Reader in Data & Society in the Department of Digital Humanities at King’s College London. His cross-disciplinary research examines the societal and governance infrastructures of data-driven AI. He provides national and European research leadership as UK Node Lead for SoBigData and as a PI at REPHRAIN, the UKRI national research centre on privacy, harm reduction and adversarial influence online."
   day: 5
   program: true
+- name: "Giuseppina"
+  surname: "Sgandurra"
+  institution: "University of Pisa"
+  img_url:  "/assets/images/speaker_Sgandurra.jpg"
+  description: ""
+  topics:topics: ["Pediatric Neurorehabilitation", "Rehabilitation Robotics", "Developmental Neuroscience"]
+  home: false
+  title: "Human-AI Coevolution and Societal Impact"
+  bio: "Associate Professor at Department of Clinical and Experimental Medicine, University of Pisa and Department of Developmental Neuroscience, IRCCS Fondazione Stella Maris (FSM). Since 2019, she is the head of INNOVATE (INNOVATivE technologies in neurorehabilitation) Lab at FSM, a multiprofessional work lab composed by physicians, motor and speech therapists, psychologists and engineers. In the last months she is leading also the new Centre of Excellence for INNOVATivE Technological and Robotic REHABilitation in CHILDren (CoE- REHAB-CHILD)  that is a unique facility in Italy as it is completely dedicated to robotic and digital rehabilitation for children. She is also leading the Education and Training Committee of EACD."
+  day: 1
+  program: true
