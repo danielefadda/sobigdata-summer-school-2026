@@ -131,6 +131,90 @@ transform: rotate(180deg);
   max-width: 100%;
 }
 
+.themes-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.theme-card {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  min-height: 100%;
+  border: 1px solid #d8dce6;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 6px 16px rgba(7, 40, 110, 0.08);
+}
+
+.theme-card .theme-content {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  gap: 0.6rem;
+  padding-top: 0.45rem;
+}
+
+.theme-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.theme-icon-wrapper {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.3rem;
+  background-color: #07286E;
+  color: #fff;
+  display: inline-grid;
+  place-items: center;
+  flex-shrink: 0;
+  line-height: 1;
+  padding: 0;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.theme-title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.theme-desc {
+  margin-bottom: 0;
+}
+
+.theme-tags {
+  list-style: none;
+  margin: 0;
+  margin-top: auto;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.4rem;
+}
+
+.badge-surface {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background-color: #e7eff1;
+  color: #07286E;
+  border: 1px solid #c2cfde;
+  font-weight: 600;
+  font-size: 0.78rem;
+  padding: 0.3rem 0.55rem;
+}
+
+.theme-tags .badge-surface:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+
 @media (min-width: 576px) {
   .card-container .card {
     flex: 1 1 calc(50% - 1rem); /* 2 cards per row on small screens */

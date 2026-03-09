@@ -1,13 +1,31 @@
-- day: "1. SoBigData RI and Project challenges"
-  description: "Introduction to the SoBigData Research Infrastructure followed by the presentation of real-world social challenges by companies and associations to inspire collaborative projects."
+- id: theme-1
+  day-number: 1
+  day: "SoBigData RI and Project challenges"
+  title: "SoBigData RI & Project Challenges"
+  icon: "icon-network" # Da mappare con i token SVG del design system
+  description:  "Introduction to the SoBigData Research Infrastructure followed by the presentation of real-world social challenges by companies and associations to inspire collaborative projects."
+  tags: ["Infrastructure", "Use Cases", "Collaboration"]
 
-- day: "2. Health and Wellbeing"
+- id: theme-2
+  day-number: 2
+  day: "Health and Wellbeing Analytics"
+  title: "Health and Wellbeing"
+  icon: "icon-heart-pulse"
   description: "Exploration of the intersection between AI and healthcare, analyzing personal wellbeing and health data through advanced data analysis and visualization techniques."
+  tags: ["Healthcare", "Visual Analytics", "AI"]
 
-- day: "3. Sport Analytics and Agentic AI"
-  description: "Examination of data-driven approaches in sports analytics, specifically in soccer and volleyball, alongside the application of emerging agentic AI methods."
+- id: theme-3
+  day-number: 3
+  day: "Sport Analytics and Agentic AI"
+  title: "Sport Analytics & Agentic AI"
+  icon: "icon-chart-line"
+  description: "Data-driven approaches in sports analytics (soccer, volleyball) combined with the application of emerging agentic AI methodologies."
+  tags: ["Sport Analytics", "Agentic AI", "Data-Driven"]
 
-- day: "4. Privacy, Fairness and Security"
-  description: "The final day addresses the critical themes of privacy, security, fairness, and responsibility in data science."
-
-  
+- id: theme-4
+  day-number: 4
+  day: "Privacy, Fairness and Security"
+  title: "Privacy, Fairness and Security"
+  icon: "icon-shield"
+  description: "Critical analysis of the ethical implications in data science. Focus on privacy-preserving frameworks, data security, and algorithmic accountability."
+  tags: ["Privacy", "Ethics", "Security"]
