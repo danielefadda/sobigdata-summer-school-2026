@@ -133,7 +133,7 @@ activities:
   thursday:
     content:
       icon: "comment"
-      text: "**Francesca Naretto**<br>Privacy, Fairness e Spiegazione"
+      text: "**Francesca Naretto**<br>Privacy, Fairness and XAI"
     rowspan: 1
   friday:
     content:
