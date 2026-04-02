@@ -13,7 +13,7 @@ activities:
     content:
       icon: "comments"
       text: "**Meeting the Tutors**"
-    rowspan: 11
+    rowspan: 13
   monday:
     content:
       icon: "id-card"
@@ -114,48 +114,57 @@ activities:
     rowspan: 1
   class: break
 
-- time: "11:30 12:30"
+- time: "11:30 12:00"
   monday:
     content:
       icon: "comment"
       text: "**Project Challenges Presentation**<br> (Sgandurra, others T.B.A.)"
-    rowspan: 2
+    rowspan: 4
   tuesday:
     content:
       icon: "comment"
-      text: "**Vasiliki Voukelatou**<br>Wellbeing"
+      text: "**Elena Cardillo**<br>Healthcare Data and Knowledge Representation"
     rowspan: 1
   wednesday:
     content:
       icon: "comment"
       text: "**Maurizio Napolitano**<br>Volleyball Analytics"
-    rowspan: 1
+    rowspan: 2
   thursday:
     content:
       icon: "comment"
       text: "**Francesca Naretto**<br>Privacy, Fairness and XAI"
-    rowspan: 1
+    rowspan: 2
   friday:
     content:
       icon: "comments"
       text: "**Projects Presentations**"
-    rowspan: 2
+    rowspan: 4
 
-- time: "12:30 13:30"
+- time: "12:00 12:30"
   tuesday:
     content:
       icon: "comment"
       text: "**Salvatore Rinzivillo**<br>Visualization Health"
-    rowspan: 1
+    rowspan: 2
+
+- time: "12:30 12:45"
   wednesday:
     content:
       icon: "comment"
       text: "**Elisabeth Black**<br>Agentic AI"
-    rowspan: 1
+    rowspan: 2
   thursday:
     content:
       icon: "comment"
       text: "**Awais Rashid**<br>Data Protection"
+    rowspan: 2
+
+- time: "12:45 13:30"
+  tuesday:
+    content:
+      icon: "comment"
+      text: "**Vasiliki Voukelatou**<br>Wellbeing"
     rowspan: 1
 
 - time: "13:30 15:00"

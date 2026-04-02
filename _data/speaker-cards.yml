@@ -97,6 +97,17 @@
   bio: "Prof Jose Such is Research Professor at the Spanish National Research Council (CSIC), where he leads the Human-centred AI Security, Ethics and Privacy (HASP) Lab. Previously, he was Full Professor of Computer Science at King’s College London. His research interests are at the intersection between Artificial Intelligence, Human-Computer Interaction, and Cyber Security."
   day: 4
   program: true
+- name: "Elena"
+  surname: "Cardillo"
+  institution: "Istituto di informatica e telematica (IIT) of the National Research Council of Italy (CNR)"
+  img_url: "/assets/images/speaker_Cardillo.jpg"
+  description: "High-quality healthcare data are the key to effective data analysis and reliable AI in medicine. This talk explores the transition from raw clinical data to interoperable knowledge, covering the regulatory and technical standards essential for semantic interoperability, as well as the use of knowledge representation (clinical ontologies) to formalize medical concepts and expertise. The session concludes by showing how structured and formalized knowledge frameworks support clinical decision making and enhance AI accuracy and trustworthiness in clinical practice."
+  topics: ["Data Science", "Machine Learning", "Nutrition"]
+  home: false
+  title: "Healthcare Data and Knowledge Representation"
+  bio: "Cardillo is a researcher at IIT-CNR since 2013. Holding a PhD in ICT (University of Trento/FBK), her research targets knowledge management, semantic interoperability, Knowledge Organization Systems, and Semantic Web technologies. She has extensive expertise in e-health, notably supporting AgID and Italian Regions in developing the national Electronic Health Record (FSE) and related semantic web services. Furthermore, she teaches Knowledge Organization for the PhD School in ICT at the University of Calabria (DIMES) and conducts LOINC training as part of the LOINC Italia working group."
+  day: 2
+  program: true
 - name: "Vasiliki"
   surname: "Voukelatou"
   institution: "UN World Food Programme (WFP)"
