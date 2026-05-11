@@ -118,7 +118,7 @@ activities:
   monday:
     content:
       icon: "comment"
-      text: "**Project Challenges Presentation**<br> (Sgandurra, others T.B.A.)"
+      text: "**Project Challenges Presentation**<br> by Francesco Oleni, Matteo Marescotti, Giuseppina Sgandurra, Pietro Ilio Gatti"
     rowspan: 4
   tuesday:
     content:
@@ -271,7 +271,7 @@ activities:
   tuesday:
     content:
       icon: "handshake"
-      text: "**Social Event**<br>T.B.A."
+      text: "**Social Event**<br>Petra winery tour and dinner"
     rowspan: 2
   thursday:
     content:

@@ -25,7 +25,6 @@ header_title: "Data Analysis and AI <br>in Sport, Health and Wellbeing"
                     <ul>
                         <li>A welcome cocktail on Sunday late afternoon 21 June 2026</li>
 <li>Visit to the award-winning <a href="https://www.petrawine.it/en/home-english/" target="_blank"> Petra Winery</a>: a guided tour of the vineyards and the winery designed by architect Mario Botta and a dinner with wine tasting.</li>
-<li>Visit to the marine protected and <a href="https://www.parchivaldicornia.it/en/archaeological-parks/archaeological-park-of-baratti-and-populonia/" target="_blank"> archaeological area of Baratti-Populonia</a>.</li>
 <li>A dj-set night with pizza to celebrate the end of the school in an informal setting within the Poggio all’Agnello venue</li>
                     </ul>
             </div>
@@ -34,5 +33,19 @@ header_title: "Data Analysis and AI <br>in Sport, Health and Wellbeing"
 </div>
 
 <div class="container">
-{% include_cached snippets/masonry.html internal="social" %}
+{% assign surrounding = "
+                    /assets/images/social/baratti6.jpeg,
+                    /assets/images/social/baratti7.jpeg,
+                    /assets/images/social/baratti9.jpeg,
+                    /assets/images/social/baratti10.jpeg,
+                    /assets/images/social/petra1.jpeg,
+                    /assets/images/social/petra-2.webp,
+                    /assets/images/social/petra-3.jpeg,
+                    /assets/images/social/petra-4.jpeg,
+                    /assets/images/social/baratti10.jpeg,
+                    /assets/images/social/restaurant2.webp,
+                    "
+                    %}
+
+                {% include_cached snippets/masonry.html external=surrounding %}
 </div>

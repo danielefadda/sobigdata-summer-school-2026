@@ -54,6 +54,8 @@ navbar:
       url: /speakers.html
     - title: Venue
       url: /venue.html
+    - title: Social Event
+      url: /social.html
     - title: Registration
       url: /registration.html
 
