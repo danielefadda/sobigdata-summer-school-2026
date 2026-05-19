@@ -141,6 +141,17 @@
   bio: "Awais Rashid is Professor of Cyber Security at University of Bristol where he heads the Cyber Security Group. He is Director of the EPSRC Centre for Doctoral Training in Cyber Security and Director of the National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN). His research focuses on security and privacy of large connected infrastructures."
   day: 4
   program: true
+- name: "Mark"
+  surname: "Coté"
+  institution: "King’s College London"
+  img_url:  "/assets/images/speaker_Cote.jpg"
+  description: "Human-AI coevolution, the process in which humans and AI algorithms continuously influence each other, increasingly characterises our society. This talk will discuss relevant studies on the impact of AI-driven recommendations on human behaviour in social media, geographic mapping, online retail and chatbot ecosystems, and the challenges of measuring and modelling the human-AI feedback loop."
+  topics: ["Data and Society", "Human-AI Interaction", "Social Data Analytics"]
+  home: false
+  title: "Human-AI Coevolution and Societal Impact"
+  bio: "Mark Coté is a Reader in Data & Society in the Department of Digital Humanities at King’s College London. His cross-disciplinary research examines the societal and governance infrastructures of data-driven AI, bringing humanities perspectives into sustained collaboration with computer science, policy and legal scholarship. He has been PI or Co-I on EPSRC, Horizon 2020 and AHRC grants totalling over £10m, and his work has informed policy and regulatory debate. He provides national and European research leadership as UK Node Lead for SoBigData (ESFRI Roadmap) and as a PI and Strategic Board member of REPHRAIN, the UKRI national research centre on privacy, harm reduction and adversarial influence online. His work is widely published across disciplines, including in Big Data & Society and IEEE venues, and has been invited to international keynotes and conferences."
+  day: 5
+  program: true
 - name: "Michela"
   surname: "Natilli"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
@@ -152,17 +163,6 @@
   bio: "She is in the management team of the SoBigData Research Infrastructure, the European Research Infrastructure for Big Data and Social Mining and she is the Research Infrastructure Manager of SoBigData.it. A statistician, graduated in Statistics and Economics at University of Siena, she got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015."
   day: 5
   program: false
-- name: "Mark"
-  surname: "Coté"
-  institution: "King’s College London"
-  img_url:  "/assets/images/speaker_Cote.jpg"
-  description: "Human-AI coevolution, the process in which humans and AI algorithms continuously influence each other, increasingly characterises our society. This talk will discuss relevant studies on the impact of AI-driven recommendations on human behaviour in social media, geographic mapping, online retail and chatbot ecosystems, and the challenges of measuring and modelling the human-AI feedback loop."
-  topics: ["Data and Society", "Human-AI Interaction", "Social Data Analytics"]
-  home: false
-  title: "Human-AI Coevolution and Societal Impact"
-  bio: "Mark Coté is a Reader in Data & Society in the Department of Digital Humanities at King’s College London. His cross-disciplinary research examines the societal and governance infrastructures of data-driven AI. He provides national and European research leadership as UK Node Lead for SoBigData and as a PI at REPHRAIN, the UKRI national research centre on privacy, harm reduction and adversarial influence online."
-  day: 5
-  program: true
 - name: "Giuseppina"
   surname: "Sgandurra"
   institution: "University of Pisa"

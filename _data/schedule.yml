@@ -59,7 +59,7 @@ activities:
   thursday:
     content:
       icon: "comment"
-      text: "**Jose Such**<br>Ethics"
+      text: "**Jose Such**<br>Human-centred AI Privacy"
     rowspan: 3
   friday:
     content:
@@ -76,7 +76,7 @@ activities:
   friday:
     content:
       icon: "comment"
-      text: "**Projects Presentations**"
+      text: "**Projects Presentations**<br>chaired by Mark Coté"
     rowspan: 2
 
 - time: "10:30 11:00"
@@ -138,7 +138,7 @@ activities:
   friday:
     content:
       icon: "comments"
-      text: "**Projects Presentations**"
+      text: "**Projects Presentations**<br>chaired by Mark Coté"
     rowspan: 4
 
 - time: "12:00 12:30"
