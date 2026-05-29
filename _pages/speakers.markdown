@@ -68,6 +68,44 @@ header_title: "Data Analysis and AI <br>in Sport, Health and Wellbeing"
 
 </div>
 
+
+
+<div class="registration">
+    <div class="container">
+        <div class="row pt-2 ">
+            <div class="col-md-8 offset-md-2 col-sm-12">
+                <h2>Tutors</h2>
+                <hr>
+                <p class="lead">
+                    Students will have the opportunity to interact with tutors during the afternoon sessions, which will be dedicated to hands-on activities and project work. These tutors will provide guidance and support as students apply the concepts learned in the morning sessions to real-world challenges.
+                </p>
+                <hr>
+                <div class="container py-3" id="speakers-container">
+                    <div class="day-section">
+                        <h3 class="day-title">{{ day_info.day }}</h3>
+                        {% for tutor in site.data.tutors-cards %}
+                        <div class="row py-3 my-3 project" >
+                            <div class="col-md-4">
+                                <div class="project-img"><img src="{{site.baseurl}}{{ tutor.img_url}}" alt="{{ tutor.name }}" style="width:100%"></div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="project-body">
+                                    <h5>{{ tutor.name }} {{ tutor.surname }}</h5>
+                                    <p><strong> {{ tutor.institution }}</strong></p>
+                                    <p>{{ tutor.bio }}</p>
+                                    {% assign topics = tutor.topics | split: "," %}
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');

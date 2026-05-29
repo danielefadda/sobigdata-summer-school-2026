@@ -20,6 +20,41 @@
   bio: "Anna Monreale is an Associate Professor at the Computer Science Department of the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD-Lab), a joint research group with the Information Science and Technology Institute of the National Research Council in Pisa. She has been a visiting student at Department of Computer Science of the Stevens Institute of Technology (Hoboken, NewJersey, USA) (2010)."
   day: 1
   program: false
+
+- name: "Francesco"
+  surname: "Oleni"
+  institution: "Volley Lube"
+  img_url: "/assets/images/speaker_Oleni.png"
+  description: ""
+  topics: ["Sports Analytics", "Data Mining", "Volleyball"]
+  home: false
+  title: "Project Challenges Presentation"
+  bio: "Francesco Oleni is a volleyball analyst and assistant coach currently with Volley Lube, competing in the Italian SuperLega and the CEV Champions League. Over nearly two decades he has worked with top-level clubs and national teams across Italy, Poland, Russia, China, South Korea, Qatar, and Denmark — including roles with the men's national teams of China and Denmark and trophies such as the Korean V-League title and a CEV Cup. His work focuses on match analysis, data-driven scouting, and video analysis to support tactical decision-making at the highest competitive level."
+  day: 1
+  program: true
+- name: "Matteo"
+  surname: "Marescotti"
+  institution: "Ospedalieri Volley Pisa"
+  img_url: "/assets/images/speaker_Marescotti.png"
+  description: ""
+  topics: ["Sports Analytics", "Biokinetics", "Volleyball"]
+  home: false
+  title: "Project Challenges Presentation"
+  bio: "Matteo Marescotti is a volleyball coach currently working in Pisa with the developing  and senior team. Interested in motor learning and anatomy, he achieved a Master degree in Biokinetics at Coimbra University, with a thesis focused on the prevention of anterior cruciate ligament (ACL) injuries. His academic background is completed with a master degree in Sport Science and Techniques achieved in Genova. "
+  day: 1
+  program: true
+- name: "Pietro Ilio"
+  surname: "Gatti"
+  institution: "University of Pisa"
+  img_url: "/assets/images/speaker_Gatti.png"
+  description: ""
+  topics: ["Movement Analysis", "Neurorehabilitation", "Sport for Children"]
+  home: false
+  title: "Project Challenges Presentation"
+  bio: "Pietro Ilio Gatti is a research fellow at the University of Pisa and a therapist at the INNOVATE Laboratory, IRCCS Fondazione Stella Maris. His background integrates movement science and pediatric neurorehabilitation, with interests in child rehabilitation, movement analysis, and adapted sport for children with neurodevelopmental disabilities. "
+  day: 1
+  program: true
+
 - name: "Roberto"
   surname: "Trasarti"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
@@ -31,6 +66,7 @@
   bio: "Roberto Trasarti is a Senior Researcher at ISTI-CNR and the Coordinator of the SoBigData Research Infrastructure. He holds a Ph.D. in Computer Science from the University of Pisa. His research focuses on Data Mining, Spatio-Temporal Data Analysis, Artificial Intelligence, and Automatic Reasoning. He leads the Knowledge Discovery and Delivery Laboratory's efforts in mobility analysis and social mining."
   day: 1
   program: true
+
 - name: "Sara"
   surname: "Colantonio"
   institution: "Institute of Information Science and Technologies (ISTI) of the National Research Council of Italy (CNR)"
