@@ -12,7 +12,7 @@ activities:
   sunday:
     content:
       icon: "comments"
-      text: "**Meeting the Tutors**"
+      text: "**Internal meeting for the organization**"
     rowspan: 13
   monday:
     content:
