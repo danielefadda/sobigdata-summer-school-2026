@@ -71,7 +71,7 @@ activities:
   monday:
     content:
       icon: "comment"
-      text: "**Roberto Trasarti**<br>SoBigData RI & School Introduction"
+      text: "**Roberto Trasarti**<br>**Salvatore Ruggieri**<br>SoBigData RI & School Introduction"
     rowspan: 1
   friday:
     content:
@@ -118,8 +118,8 @@ activities:
   monday:
     content:
       icon: "comment"
-      text: "**Project Challenges Presentation**<br> by Francesco Oleni, Matteo Marescotti, Giuseppina Sgandurra, Pietro Ilio Gatti"
-    rowspan: 4
+      text: "**Project Challenges Presentation**<br> by Lorenzo Mannocci, Francesco Oleni, Pietro Ilio Gatti"
+    rowspan: 2
   tuesday:
     content:
       icon: "comment"
@@ -138,7 +138,7 @@ activities:
   friday:
     content:
       icon: "comments"
-      text: "**Projects Presentations**<br>chaired by Mark Coté"
+      text: "**Projects Presentations**<br>chaired by Mark Coté. Evaluators: Francesca Naretto, Anna Monreale, Francesco Oleni, Pietro Ilio Gatti"
     rowspan: 4
 
 - time: "12:00 12:30"
@@ -149,6 +149,11 @@ activities:
     rowspan: 2
 
 - time: "12:30 12:45"
+  monday:
+    content:
+      icon: "comment"
+      text: "**Group decision challenge**"
+    rowspan: 2
   wednesday:
     content:
       icon: "comment"
@@ -208,9 +213,9 @@ activities:
     rowspan: 1
   wednesday:
     content:
-      icon: "handshake"
-      text: "**Free Afternoon**"
-    rowspan: 4
+      icon: "laptop"
+      text: "**Developing Student Projects with Tutors**"
+    rowspan: 1
   thursday:
     content:
       icon: "laptop"
@@ -233,6 +238,11 @@ activities:
       icon: "coffee"
       text: "**Coffee Break**"
     rowspan: 1
+  wednesday:
+    content:
+      icon: "handshake"
+      text: "**Free Afternoon**"
+    rowspan: 4
   thursday:
     content:
       icon: "coffee"
@@ -257,32 +267,42 @@ activities:
       text: "**Developing Student Projects with Tutors**"
     rowspan: 1
 
-- time: "18:00 20:30"
+- time: "18:00 18:30"
+  sunday:
+    content:
+      icon: 
+      text: 
+    rowspan: 1
+  monday:
+    content:
+      icon: 
+      text: 
+    rowspan: 2
+  tuesday:
+    content:
+      icon: "handshake"
+      text: "**Social Event**<br>Petra winery tour and dinner"
+    rowspan: 3
+  thursday:
+    content:
+      icon: 
+      text: 
+    rowspan: 2
+  friday:
+    content:
+      icon: 
+      text: 
+    rowspan: 2
+
+- time: "18:30 20:30"
   sunday:
     content:
       icon: "handshake"
       text: "**Welcome Cocktail <br>and dinner**"
     rowspan: 2
-  monday:
-    content:
-      icon: ""
-      text: ""
-    rowspan: 1
-  tuesday:
-    content:
-      icon: "handshake"
-      text: "**Social Event**<br>Petra winery tour and dinner"
-    rowspan: 2
-  thursday:
-    content:
-      icon: ""
-      text: ""
-    rowspan: 1
-  friday:
-    content:
-      icon: ""
-      text: ""
-    rowspan: 1
+
+
+
 
 - time: "20:30"
   monday:
